@@ -14,6 +14,9 @@ theme:
       - header.autohide
       - announce.dismiss
       - navigation.footer
+      - content.code.copy
+      - content.code.select
+      - content.code.annotate
 
   highlightjs: true
   hljs_languages:
@@ -24,6 +27,20 @@ theme:
     - js
     - c++
     - C#
+
+markdown_extensions:
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
 
 nav:
   - Home: 'index.md'
