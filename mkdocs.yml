@@ -1,4 +1,16 @@
 # yaml-language-server: $schema=https://squidfunk.github.io/mkdocs-material/schema.json
-site_name: My Docs
+site_name: ORDA
 theme:
-  name: material
+  name: readthedocs
+  highlightjs: true
+  hljs_languages:
+    - yaml
+    - rust
+    - python
+    - go
+    - js
+    - c++
+    - C#
+nav:
+   - Главная: index.md
+   - О проекте: about.md
