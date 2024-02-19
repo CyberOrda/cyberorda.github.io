@@ -2,6 +2,7 @@ site_name: ORDA
 theme:
   language: ru
   name: material
+  
   palette:
     scheme: default
     primary: white
@@ -45,7 +46,7 @@ markdown_extensions:
   - footnotes
   - attr_list
   - md_in_html
-  
+
 nav:
   - Home: 'index.md'
   - About:
