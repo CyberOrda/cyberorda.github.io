@@ -24,6 +24,14 @@ def bubble_sort(items):
             if items[j] > items[j + 1]:
                 items[j], items[j + 1] = items[j + 1], items[j]
 ```
+## Нажимаем клавиши
+
+++ctrl+alt+del++
+
+## Пишем формулы
+
+- H~2~O
+- A^T^A
 
 [^1]:
     А вот тут мы тестируем FootNotes. Можно их к примеру оставлять в постах где есть *
