@@ -27,7 +27,6 @@ theme:
 
 nav:
   - Home: 'index.md'
-  - 'User Guide'
   - About:
     - 'О нас': 'about.md'
     - 'Ещё о нас': 'about.md'
