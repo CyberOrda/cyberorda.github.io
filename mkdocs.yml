@@ -19,6 +19,11 @@ theme:
       - content.code.select
       - content.code.annotate
       - content.footnote.tooltips
+      - navigation.icons
+      - navigation.tabs
+      - navigation.instant
+      - navigation.sections
+      - navigation.top
 
   highlightjs: true
   hljs_languages:
