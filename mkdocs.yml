@@ -8,6 +8,12 @@ theme:
     accent: light blue
     toggle:
       icon: material/brightness-7 
+    features:
+      - search.highlight
+      - search.share
+      - header.autohide
+      - announce.dismiss
+      - navigation.footer
 
   highlightjs: true
   hljs_languages:
@@ -37,6 +43,9 @@ nav:
 
 extra:
   consent:
-    title: Cookie consent
+    title: Куки кику
     description: >- 
       Мы используем твои печеньки .. Впрочем, ты и так всё понимаешь.
+  social:
+    - icon: fontawesome/brands/telegram
+      link: https://t.me/
