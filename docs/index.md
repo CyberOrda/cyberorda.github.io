@@ -4,7 +4,7 @@
 
 <div class="grid cards" markdown>
 
--   :material-clock-fast:{ .lg .middle } __Set up in 5 minutes__
+-    __Set up in 5 minutes__
 
     ---
 
@@ -13,7 +13,7 @@
 
     [:octicons-arrow-right-24: Getting started](#)
 
--   :fontawesome-brands-markdown:{ .lg .middle } __It's just Markdown__
+-    __It's just Markdown__
 
     ---
 
@@ -21,7 +21,7 @@
 
     [:octicons-arrow-right-24: Reference](#)
 
--   :material-format-font:{ .lg .middle } __Made to measure__
+-    __Made to measure__
 
     ---
 
@@ -29,7 +29,7 @@
 
     [:octicons-arrow-right-24: Customization](#)
 
--   :material-scale-balance:{ .lg .middle } __Open Source, MIT__
+-   __Open Source, MIT__
 
     ---
 
