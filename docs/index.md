@@ -2,7 +2,7 @@
 
 Добро пожаловать в AppSec comunity - ORDA.
 
-## Для чего создано это сообщество
+## Это текстовый блок чтобы показать, что в целом можно сделать с текстом.
 
 Text can be {--deleted--} and replacement text {++added++}. This can also be
 combined into {~~one~>a single~~} operation. {==Highlighting==} is also
@@ -15,7 +15,7 @@ tags on separate lines and adding new lines between the tags and the content.
 
 ==}
 
-## Что у нас есть для тебя
+## Как будет выглядть код
 
 ``` py title="bubble_sort.py"
 def bubble_sort(items):
@@ -24,3 +24,6 @@ def bubble_sort(items):
             if items[j] > items[j + 1]:
                 items[j], items[j + 1] = items[j + 1], items[j]
 ```
+
+[^1]:
+    А вот тут мы тестируем FootNotes. Можно их к примеру оставлять в постах где есть *
