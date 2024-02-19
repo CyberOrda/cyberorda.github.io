@@ -43,7 +43,9 @@ markdown_extensions:
   - pymdownx.snippets
   - pymdownx.superfences
   - footnotes
-
+  - attr_list
+  - md_in_html
+  
 nav:
   - Home: 'index.md'
   - About:
