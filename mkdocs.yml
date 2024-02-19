@@ -1,5 +1,6 @@
 site_name: ORDA
 theme:
+  language: ru
   name: material
   palette:
     scheme: default
@@ -7,14 +8,6 @@ theme:
     accent: light blue
     toggle:
       icon: material/brightness-7 
-      name: Switch to dark mode
-
-    scheme: slate
-    primary: white
-    accent: light blue
-    toggle:
-      icon: material/brightness-4
-      name: Switch to light mode
 
   highlightjs: true
   hljs_languages:
@@ -25,6 +18,7 @@ theme:
     - js
     - c++
     - C#
+
 nav:
   - Home: 'index.md'
   - 'User Guide'
@@ -40,3 +34,9 @@ nav:
   - ApiSecurity:
     - 'О нас': 'about.md'
     - 'Ещё о нас': 'about.md'
+
+extra:
+  consent:
+    title: Cookie consent
+    description: >- 
+      Мы используем твои печеньки .. Впрочем, ты и так всё понимаешь.
