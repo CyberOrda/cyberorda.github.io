@@ -17,6 +17,7 @@ theme:
       - content.code.copy
       - content.code.select
       - content.code.annotate
+      - content.footnote.tooltips
 
   highlightjs: true
   hljs_languages:
