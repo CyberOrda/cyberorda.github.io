@@ -14,3 +14,4 @@ theme:
 nav:
    - Главная: index.md
    - О проекте: about.md
+    - WebSecurity: WebSecurity.md
