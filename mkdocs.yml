@@ -1,7 +1,6 @@
-# yaml-language-server: $schema=https://squidfunk.github.io/mkdocs-material/schema.json
 site_name: ORDA
 theme:
-  name: readthedocs
+  name: material
   highlightjs: true
   hljs_languages:
     - yaml
@@ -12,6 +11,17 @@ theme:
     - c++
     - C#
 nav:
-   - Главная: index.md
-   - О проекте: about.md
-    - WebSecurity: WebSecurity.md
+  - Home: 'index.md'
+  - 'User Guide'
+  - About:
+    - 'О нас': 'about.md'
+    - 'Ещё о нас': 'about.md'
+  - WebSecurity:
+    - 'О нас': 'about.md'
+    - 'Ещё о нас': 'about.md'
+  - ApiSecurity:
+    - 'О нас': 'about.md'
+    - 'Ещё о нас': 'about.md'
+  - ApiSecurity:
+    - 'О нас': 'about.md'
+    - 'Ещё о нас': 'about.md'
