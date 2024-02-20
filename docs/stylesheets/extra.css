@@ -1,0 +1,17 @@
+.md-header {
+    box-shadow: none !important;
+    background-color: #137546 !important; /* Замените #007bff на желаемый оттенок синего */
+    color: #ffffff !important;
+}
+
+.md-header_inner {
+    color: #ffffff !important;
+}
+
+.md-footer {
+    background-color: #137546 !important; /* Замените #007bff на желаемый оттенок синего */
+    color: #ffffff !important; /* Устанавливает текст футера на белый цвет, если требуется */
+}
+.md-footer__inner {
+    color: #ffffff !important; /* Устанавливает текст внутри футера на белый цвет, если требуется */
+}

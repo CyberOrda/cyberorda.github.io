@@ -151,6 +151,9 @@ plugins:
 repo_url: https://github.com/CyberOrda/cyberorda.github.io
 repo_name: CyberOrda/cyberorda.github.io
 
+extra_css:
+  - stylesheets/extra.css
+   
 
 extra_javascript:
   - javascripts/consent.js
