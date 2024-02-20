@@ -4,71 +4,41 @@
 
 <div class="grid cards" markdown>
 
--    __Set up in 5 minutes__
+-    __Полезные материалы по безопасности API__
 
     ---
 
-    Install [`mkdocs-material`](#) with [`pip`](#) and get up
-    and running in minutes
+    На нашей вики вы можете открыть для себя мир безопасности API.
+    
+    ---
+    [Api Security](https://cyberorda.github.io/ApiSec/)
 
-    [:octicons-arrow-right-24: Getting started](#)
-
--    __It's just Markdown__
+-    __Мы подскажем тебе где потренироваться__
 
     ---
 
-    Focus on your content and generate a responsive and searchable static site
+    Найдите для себя ресурсы, на которых вы можете наработать практику.
+    
+    ---
+    [Offline Apps](https://cyberorda.github.io/Offline_Apps/)
 
-    [:octicons-arrow-right-24: Reference](#)
-
--    __Made to measure__
+-    __Прокачай свою работу с BurpSuite PRO__
 
     ---
 
-    Change the colors, fonts, language, icons, logo and more with a few lines
+    Расширения и плагины, которые упростят вашу работу с Burp Suite.
+    
+    ---
+    [Burp Extensions](https://cyberorda.github.io/BurpExtensions/)
 
-    [:octicons-arrow-right-24: Customization](#)
-
--   __Open Source, MIT__
+-   __Наш блог, где мы публикуем всё самое интересное__
 
     ---
 
-    Material for MkDocs is licensed under MIT and available on [GitHub]
-
-    [:octicons-arrow-right-24: License](#)
+    В блоге вы найдёте статьи по актуальным изменениям в области AppSec.
+    
+    ---
+    [Blog](https://cyberorda.github.io/blog/)
 
 </div>
 
-## Это текстовый блок чтобы показать, что в целом можно сделать с текстом.
-
-Text can be {--deleted--} and replacement text {++added++}. This can also be
-combined into {~~one~>a single~~} operation. {==Highlighting==} is also
-possible {>>and comments can be added inline<<}.
-
-{==
-
-Formatting can also be applied to blocks by putting the opening and closing
-tags on separate lines and adding new lines between the tags and the content.
-
-==}
-
-## Как будет выглядть код
-
-``` py title="bubble_sort.py"
-def bubble_sort(items):
-    for i in range(len(items)):
-        for j in range(len(items) - 1 - i):
-            if items[j] > items[j + 1]:
-                items[j], items[j + 1] = items[j + 1], items[j]
-```
-## Нажимаем клавиши
-
-++ctrl+alt+del++
-
-## Пишем формулы
-
-- H~2~O
-- A^T^A
-
-[^1]:
-    А вот тут мы тестируем FootNotes. Можно их к примеру оставлять в постах где есть *

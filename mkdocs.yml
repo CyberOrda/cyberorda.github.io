@@ -24,6 +24,7 @@ theme:
       - navigation.instant
       - navigation.sections
       - navigation.top
+      - navigation.indexes
   icons:
      - fontawesome: true
 
@@ -58,17 +59,29 @@ nav:
   - Home: 'index.md'
   - About:
     - 'О нас': 'about.md'
-    - 'Ещё о нас': 'about.md'
-  - WebSecurity:
-    - 'О нас': 'about.md'
-    - 'Ещё о нас': 'about.md'
-  - ApiSecurity:
-    - 'О нас': 'about.md'
-    - 'Ещё о нас': 'about.md'
-  - ApiSecurity:
-    - 'О нас': 'about.md'
-    - 'Ещё о нас': 'about.md'
-
+  - Безопасность веб приложений: 
+    - 'Server-Side уязвимости': 'Backend.md'
+    - 'Client-Side уязвимости': 'Frontend.md'
+    - 'ApiSecurity': 'ApiSec.md'
+  - DevSecOps: 'DevSecOps.md'
+  - Книги/Курсы:
+    - 'Книги': 'Books.md'
+    - 'Курсы': 'Courses.md'
+  - Burp Suite Advanced:
+    - 'Расширения': 'BurpExtensions.md'
+    - 'Tricks': 'BurpTricks.md'
+  - Безопасность мобильных приложений: 'mobile.md'
+  - Контейнерная безопасность: 'container.md'
+  - Облачная безопасность: 'cloud.md'
+  - Безопасность CI/CD: 'cicdsecurity.md'
+  - Уязвимые приложения:
+    - 'Онлайн приложения': 'Online_Apps.md'
+    - 'Оффлайн приложения': 'Offline_Apps.md'
+  - Постановления регуляторов:
+    - 'Сводка': 'regulators.md'
+  - Contributors: 'contributors.md'
+  - Blog:
+    - blog/index.md
 extra:
   consent:
     title: Куки кику
@@ -77,3 +90,26 @@ extra:
   social:
     - icon: fontawesome/brands/telegram
       link: https://t.me/
+      name: telegram сообщество для ORDA
+  generator: false
+
+plugins:
+  - privacy:
+      cache: false
+  - blog:
+      post_date_format: medium
+      archive_date_format: yyyy
+      
+      categories: true
+      categories_name: DevSecOps
+
+      post_dir: "{blog}/posts"
+  - search:
+      lang: 
+        - ru
+        - en
+
+extra_javascript:
+  - javascripts/consent.js
+
+copyright: Copyright &copy; 2024 ORDA
