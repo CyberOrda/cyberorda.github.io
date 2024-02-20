@@ -1,1 +1,6 @@
+---
+hide:
+  - feedback
+---
+
 # WebSecurity

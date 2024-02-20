@@ -1,3 +1,8 @@
+---
+hide:
+  - feedback
+---
+
 ## Scanners
 
 -Passive and Active scan plugins.*

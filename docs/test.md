@@ -1,3 +1,8 @@
+---
+hide:
+  - feedback
+---
+
 ## Это текстовый блок чтобы показать, что в целом можно сделать с текстом.
 
 Text can be {--deleted--} and replacement text {++added++}. This can also be

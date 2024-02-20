@@ -1,4 +1,6 @@
 ---
+hide:
+  - feedback
 title: Литература для изучения
 author: Artyom Semenov
 date: 2024-02-20

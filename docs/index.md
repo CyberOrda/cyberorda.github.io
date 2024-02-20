@@ -1,3 +1,8 @@
+---
+hide:
+  - feedback
+---
+
 # Welcome to ORDA
 
 Добро пожаловать в AppSec comunity - ORDA.
