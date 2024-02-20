@@ -31,4 +31,5 @@ jobs:
       - run: pip install mkdocs-git-committers-plugin-2
       - run: pip install mkdocs-git-revision-date-localized-plugin
       - run: pip install mkdocs-with-pdf
+      - run: pip install mkdocs-minify-plugin
       - run: mkdocs gh-deploy --force
