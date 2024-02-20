@@ -113,6 +113,7 @@ extra:
           data: 0
           note: >- 
             Пожалуйста, создайте Issue на <a href="https://github.com/CyberOrda/cyberorda.github.io/issues" target="_blank" rel="noopener">гитхабе</a> этого проекта.
+
 plugins:
   - privacy:
       cache: false
@@ -123,6 +124,7 @@ plugins:
       categories: true
       categories_name: DevSecOps
 
+
       post_dir: "{blog}/posts"
   - search:
       lang: 
@@ -131,7 +133,12 @@ plugins:
   - git-committers:
       repository: CyberOrda/cyberorda.github.io
       branch: main
-      enabled: !MKDOCS_GIT_COMMITTERS_APIKEY
+      enabled: !ENV [CI, false]
+  
+  - git-revision-date-localized:
+      enable_creation_date: true
+      enabled: !ENV [CI, false]
+      type: date
 
   - minify:
       minify_html: true
