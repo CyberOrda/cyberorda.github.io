@@ -4,31 +4,44 @@ theme:
   name: material
   
   palette:
-    scheme: default
-    primary: white
-    accent: light blue
-    icon:
-     repo: fontawesome/brands/git-alt
-    toggle:
-      icon: material/brightness-7 
-      
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/link
+        name: Switch to light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: red
+      accent: red
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: red
+      accent: red
+      toggle:
+        icon: material/toggle-switch-off
+        name: Switch to system preference
+    
 
-    features:
-      - search.highlight
-      - search.share
-      - header.autohide
-      - announce.dismiss
-      - navigation.footer
-      - content.code.copy
-      - content.code.select
-      - content.code.annotate
-      - content.footnote.tooltips
-      - navigation.icons
-      - navigation.tabs
-      - navigation.instant
-      - navigation.sections
-      - navigation.top
-      - navigation.indexes
+  features:
+    - search.highlight
+    - search.share
+    - header.autohide
+    - announce.dismiss
+    - navigation.footer
+    - content.code.copy
+    - content.code.select
+    - content.code.annotate
+    - content.footnote.tooltips
+    - navigation.icons
+    - navigation.path
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.top
+    - navigation.indexes
+    - toggles
+    
   icons:
      - fontawesome: true
 
@@ -61,32 +74,28 @@ markdown_extensions:
   - tables
 
 nav:
-  - Home: 'index.md'
-  - About:
-    - 'О нас': 'about.md'
-  - Безопасность веб приложений: 
-    - 'Server-Side уязвимости': 'Backend.md'
-    - 'Client-Side уязвимости': 'Frontend.md'
-    - 'ApiSecurity': 'ApiSec.md'
-  - DevSecOps: 'DevSecOps.md'
-  - Книги/Курсы:
-    - 'Книги': 'Books.md'
-    - 'Курсы': 'Courses.md'
-  - Burp Suite Advanced:
-    - 'Расширения': 'BurpExtensions.md'
-    - 'Tricks': 'BurpTricks.md'
-  - Безопасность мобильных приложений: 'mobile.md'
-  - Контейнерная безопасность: 'container.md'
-  - Облачная безопасность: 'cloud.md'
-  - Безопасность CI/CD: 'cicdsecurity.md'
-  - Уязвимые приложения:
-    - 'Онлайн приложения': 'Online_Apps.md'
-    - 'Оффлайн приложения': 'Offline_Apps.md'
-  - Постановления регуляторов:
-    - 'Сводка': 'regulators.md'
-  - Contributors: 'contributors.md'
   - Blog:
     - blog/index.md
+  - Безопасность приложений: 
+    - 'Web Security': 'web_sec.md'
+    - 'Mobile Secuirty': 'mob_sec.md'
+    - 'Desktop Security': 'des_sec.md'
+  - Инструменты DevSecOps: 'DevSecOps.md'
+  - Стандарты безопасной разработки: 'standards.md'
+  - Фреймворки безопасной разработки: 'frameworks.md'
+  - Методология: 'methodology.md'
+  - Обучение:
+    - 'Курсы': 'Courses.md'
+    - 'Лабораторные работы': 'Labs.md'
+    - 'CTF': 'CTF.md'
+  - Я - разработчик: 
+    - 'Полезные материалы для разработчиков': 'dev_material.md'
+  - Вакансии: 
+    - 'Я ищу работу': 'job_search.md'
+    - 'Я нанимаю': 'job_hunt.md'
+
+
+
 extra:
   consent:
     title: Куки кику
@@ -97,7 +106,7 @@ extra:
       link: https://t.me/
       name: telegram сообщество для ORDA
   generator: false
-
+  
 
   analytics: 
     feedback:
@@ -114,17 +123,16 @@ extra:
           note: >- 
             Пожалуйста, создайте Issue на <a href="https://github.com/CyberOrda/cyberorda.github.io/issues" target="_blank" rel="noopener">гитхабе</a> этого проекта.
 
+
 plugins:
   - privacy:
       cache: false
   - blog:
       post_date_format: medium
       archive_date_format: yyyy
-      
+
       categories: true
       categories_name: DevSecOps
-
-
       post_dir: "{blog}/posts"
   - search:
       lang: 
@@ -148,6 +156,7 @@ plugins:
           remove_comments: true
       cache_safe: true
 
+
 repo_url: https://github.com/CyberOrda/cyberorda.github.io
 repo_name: CyberOrda/cyberorda.github.io
 
@@ -158,5 +167,6 @@ extra_css:
 extra_javascript:
   - javascripts/consent.js
   - javascripts/feedback.js
+  - javascripts/shortcuts.js
 
 copyright: Copyright &copy; 2024 ORDA

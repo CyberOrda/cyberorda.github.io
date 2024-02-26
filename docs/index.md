@@ -3,47 +3,35 @@ hide:
   - feedback
 ---
 
+
 # Welcome to ORDA
 
 Добро пожаловать в AppSec comunity - ORDA.
 
-<div class="grid cards" markdown>
+<div class="grid cards">
 
--    __Полезные материалы по безопасности API__
+    <div class="card">
+        <h2>Полезные материалы по безопасности веба</h2>
+        <p>На нашей вики вы можете открыть для себя мир безопасности API.</p>
+        <p><a href="https://cyberorda.github.io/web_sec/">Web Security</a></p>
+    </div>
 
-    ---
+    <div class="card">
+        <h2>Мы подскажем тебе где потренироваться</h2>
+        <p>Найдите для себя ресурсы, на которых вы можете наработать практику.</p>
+        <p><a href="https://cyberorda.github.io/CTF/">CTF</a></p>
+    </div>
 
-    На нашей вики вы можете открыть для себя мир безопасности API.
-    
-    ---
-    [Api Security](https://cyberorda.github.io/ApiSec/)
+    <div class="card">
+        <h2>Новые стандарты</h2>
+        <p>Стандарты в области безопасной разработки.</p>
+        <p><a href="https://cyberorda.github.io/standarts/">Стандарты</a></p>
+    </div>
 
--    __Мы подскажем тебе где потренироваться__
-
-    ---
-
-    Найдите для себя ресурсы, на которых вы можете наработать практику.
-    
-    ---
-    [Offline Apps](https://cyberorda.github.io/Offline_Apps/)
-
--    __Прокачай свою работу с BurpSuite PRO__
-
-    ---
-
-    Расширения и плагины, которые упростят вашу работу с Burp Suite.
-    
-    ---
-    [Burp Extensions](https://cyberorda.github.io/BurpExtensions/)
-
--   __Наш блог, где мы публикуем всё самое интересное__
-
-    ---
-
-    В блоге вы найдёте статьи по актуальным изменениям в области AppSec.
-    
-    ---
-    [Blog](https://cyberorda.github.io/blog/)
+    <div class="card">
+        <h2>Наш блог, где мы публикуем всё самое интересное</h2>
+        <p>В блоге вы найдёте статьи по актуальным изменениям в области AppSec.</p>
+        <p><a href="https://cyberorda.github.io/blog/">Blog</a></p>
+    </div>
 
 </div>
-

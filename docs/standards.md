@@ -3,4 +3,4 @@ hide:
   - feedback
 ---
 
-# Burp Tricks
+# Стандарты
