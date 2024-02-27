@@ -1,6 +1,10 @@
 ---
 hide:
   - feedback
+tags:
+  - API
+  - OWAPS
+  - XSS
 ---
 
 # Frontend Security

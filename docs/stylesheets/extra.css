@@ -48,7 +48,7 @@ body[data-md-color-scheme="slate"] .md-header,
 body[data-md-color-scheme="slate"] .md-header--primary,
 body[data-md-color-scheme="slate"] .md-header--secondary {
     box-shadow: none !important;
-    background-color: #0c0c0c !important; /* Укажите желаемый цвет фона для тёмной темы */
+    background-color: #030017 !important; /* Укажите желаемый цвет фона для тёмной темы */
     color: #ffffff !important; /* Укажите желаемый цвет текста для тёмной темы */
 }
 body[data-md-color-scheme="slate"] .md-nav__link {
@@ -80,9 +80,9 @@ body[data-md-color-scheme="slate"] .grid.cards {
 }
 
 body[data-md-color-scheme="slate"] .card {
-    border: 3px solid #000000; /* Опционально, рамка вокруг карточки */
+    border: 3px solid #9d0000; /* Опционально, рамка вокруг карточки */
     padding: 16px; /* Отступы внутри карточки */
-    background-color: #ff2f2f; /* Фоновый цвет для карточки */
+    background-color: #030017; /* Фоновый цвет для карточки */
     display: flex;
     flex-direction: column; /* Организовываем содержимое карточки в столбец */
     justify-content: space-between; /* Распределяем пространство равномерно между элементами карточки */

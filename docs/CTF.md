@@ -1,6 +1,10 @@
 ---
 hide:
   - feedback
+tags:
+  - HackTheBox
+  - CTF
+  - web
 ---
 
 # CTF 

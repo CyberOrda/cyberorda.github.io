@@ -1,6 +1,9 @@
 ---
 hide:
   - feedback
+tags:
+  - DevSecOps
+  - Tools
 ---
 
 # DevSecOps

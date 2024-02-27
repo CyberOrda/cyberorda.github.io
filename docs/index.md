@@ -1,6 +1,9 @@
 ---
 hide:
   - feedback
+tags:
+  - Главная
+  - Welcome
 ---
 
 

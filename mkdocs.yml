@@ -127,13 +127,14 @@ extra:
 plugins:
   - privacy:
       cache: false
+      enabled: !ENV [CI, false]
   - blog:
       post_date_format: medium
       archive_date_format: yyyy
-
       categories: true
       categories_name: DevSecOps
       post_dir: "{blog}/posts"
+  - tags:
   - search:
       lang: 
         - ru
@@ -169,4 +170,6 @@ extra_javascript:
   - javascripts/feedback.js
   - javascripts/shortcuts.js
 
-copyright: Copyright &copy; 2024 ORDA
+copyright: >
+  Copyright &copy; 2024 ORDA –
+  <a href="#__consent">Настроить cookie</a>
