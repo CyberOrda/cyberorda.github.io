@@ -3,6 +3,8 @@ hide:
   - feedback
 tags:
   - Фреймворк
+  - SAMM
+  - PCI
 ---
 
 # Фреймворки безопасной разработки
@@ -14,4 +16,4 @@ tags:
 |  | Комплекс материалов по обзору Фреймворка DSOMM (статьи/презентации/видео/сравнения) | [github.com/devsecopsmaturitymodel](https://github.com/devsecopsmaturitymodel/DevSecOps-MaturityModel) |
 | **OWASP SAMM** | Официальный ресурс | [owasp.org/www-project-samm](https://owasp.org/www-project-samm/) |
 | **PCI SSF** | Официальный ресурс PCI | [pcisecuritystandards.org](https://www.pcisecuritystandards.org/document_library/) |
-|  | Обзор BSA SSF | [BSA Software Security Framework](https://www.bsa.org/files/reports/bsa_software_security_framework_web_final.pdf) |
+| **BSA SSF** | Официальный ресурс BSA SSF |[BSA Software Security Framework](https://www.bsa.org/files/reports/bsa_software_security_framework_web_final.pdf) |
