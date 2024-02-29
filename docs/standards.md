@@ -7,9 +7,9 @@ tags:
   - ФСТЭК
 ---
 
-# Стандарты
+# **Стандарты**
 
-## Зарубежные 
+## **Зарубежные**
 
 | Название стандарта | Описание | Ссылка |
 | -------- | -------- | ------ |
@@ -21,7 +21,7 @@ tags:
 |  | Перевод стандарта | [OWASP ASVS 4.0.3-ru.pdf](https://github.com/OWASP/ASVS/blob/v4.0.3/4.0/OWASP%20Application%20Security%20Verification%20Standard%204.0.3-ru.pdf) |
 | **OWASP MASVS** | Ресурс с описанием стандарта | [github.com/OWASP/owasp-masvs](https://github.com/OWASP/owasp-masvs) |
 
-## Российские 
+## **Российские**
 
 | Название стандарта | Описание | Ссылка |
 | -------- | -------- | ------ |
@@ -31,6 +31,6 @@ tags:
 |  | ГОСТ 15408-2 | [docs.cntd.ru/1200105710](https://docs.cntd.ru/document/1200105710) |
 |  | ГОСТ 15408-3 | [docs.cntd.ru/1200105711](https://docs.cntd.ru/document/1200105711) |
 
-## Профиль защиты
+## **Профиль защиты**
 [Профиль защиты](https://www.cbr.ru/content/document/file/132666/inf_note_feb_0422.pdf)
 

@@ -7,10 +7,10 @@ tags:
   - Уязвимые приложения
 ---
 
-# Список уязвимых приложений и ресурсов для получения практических навыков (оффлайн)
+# **Список уязвимых приложений и ресурсов для получения практических навыков (оффлайн)**
 
 
-## Deliberately vulnerable APIs
+## **Deliberately vulnerable APIs**
 | Name | Author | Description |
 | ---- | ------ | ----------- |
 | [APISandbox](https://github.com/API-Security/APISandbox) | [APISecurity Community](https://github.com/API-Security) | Pre-Built Vulnerable Multiple API Scenarios Environments Based on Docker-Compose. |
@@ -31,14 +31,14 @@ tags:
 | [Websheep](https://github.com/marmicode/websheep) | [marmicode](https://github.com/marmicode) | Websheep is an app based on a willingly vulnerable ReSTful APIs. |
 | [VulnerableApp4APISecurity](https://github.com/Erdemstar/VulnerableApp4APISecurity) | [Erdemstar](https://github.com/Erdemstar/) | This repository was developed using .NET 7.0 API technology based on findings listed in the OWASP 2019 API Security Top 10. |
 
-## Vulnerable VMs
+## **Vulnerable VMs**
 
 - [Vulhub](https://github.com/vulhub/vulhub)
 - [Exploit Exercises](https://exploit-exercises.lains.space/)
 - [Metasploitable3](https://github.com/rapid7/metasploitable3) - Metasploitable3 is a VM that is built from the ground up with a large amount of security vulnerabilities.
 - [Hackmyvm.eu](https://hackmyvm.eu/)
 
-## Cloud Security
+## **Cloud Security**
 
 - [Kubernetes Goat](https://github.com/madhuakula/kubernetes-goat) - Kubernetes Goat is "Vulnerable by Design" Kubernetes Cluster. Designed to be an intentionally vulnerable cluster environment to learn and practice Kubernetes security.
 - [CloudGoat](https://github.com/RhinoSecurityLabs/cloudgoat) - CloudGoat is Rhino Security Labs' "Vulnerable by Design" AWS deployment tool
@@ -52,13 +52,13 @@ tags:
 - [IAM Vulnerable](https://github.com/BishopFox/iam-vulnerable) - Use Terraform to create your own vulnerable by design AWS IAM privilege escalation playground.
 - [Sadcloud](https://github.com/nccgroup/sadcloud) - A tool for standing up (and tearing down!) purposefully insecure cloud infrastructure 
 
-## SSO - Single Sign On
+## **SSO - Single Sign On**
 
 - [vulnerable-sso](https://github.com/dogangcr/vulnerable-sso) - vulnerable single sign on
 
-## Mobile Security
+## **Безопасность мобильных приложений**
 
-### Android
+### **Android**
 * [DIVA (Damn insecure and vulnerable App)](https://github.com/payatu/diva-android)
 * [SecurityShepherd](https://github.com/OWASP/SecurityShepherd)
 * [Damn Vulnerable Hybrid Mobile App (DVHMA)](https://github.com/logicalhacking/DVHMA)
@@ -78,7 +78,7 @@ tags:
 * [Android-InsecureBankv2](https://github.com/dineshshetty/Android-InsecureBankv2)
 * [Android-security](https://github.com/rafaeltoledo/android-security)
 
-### IOS
+### **IOS**
 * [OWASP iGoat](https://www.owasp.org/index.php/OWASP_iGoat_Tool_Project)
 * [Damn Vulnerable iOS App (DVIA) v2](https://github.com/prateek147/DVIA-v2)
 * [Damn Vulnerable iOS App (DVIA) v1](https://github.com/prateek147/DVIA)
@@ -88,7 +88,7 @@ tags:
 * [Reverse Engineering iOS Applications](https://github.com/ivRodriguezCA/RE-iOS-Apps)
 * [Проектирование и разработка приложений для iOS](https://www.coursera.org/learn/ios-app-design-development)
 
-## OWASP Top 10
+## **OWASP Top 10**
 
 - [Owasp Juice shop](https://github.com/bkimminich/juice-shop) - OWASP Juice Shop: Probably the most modern and sophisticated insecure web application
 - [DVWA](https://github.com/ethicalhack3r/DVWA) - Damn Vulnerable Web Application (DVWA)
@@ -102,43 +102,43 @@ tags:
 - [WebGoat](https://github.com/WebGoat/WebGoat) - WebGoat is a deliberately insecure application by OWASP for training purpose
 - [VAmPI](https://github.com/erev0s/VAmPI) - Vulnerable REST API with OWASP top 10 vulnerabilities for security testing 
 
-### SQL Injection
+### **SQL Injection**
 
 - [Yet Another Vulnerability Database](https://github.com/rtfpessoa/yavdb) - Yet Another Vulnerability Database
 
-### XSS Injection
+### **XSS Injection**
 
 - [clicker-service - simulate XSS](https://gitlab.com/r00k/clicker-service) - Docker container that intakes post and then "clicks" the link. Intentionally vulnerable. To be used with vulnerable by design web apps to realistically simulate XSS and XSRF (CSRF).
 - [XSSworm.dev](https://github.com/vavkamil/XSSworm.dev) - Self-replication contest
 - [xssed](https://github.com/aj00200/xssed) - A set of XSS vulnerable PHP scripts for testing
 - [xssable](https://github.com/kiwicom/xssable) - A vulnerable blogging platform used to demonstrate XSS vulnerabilities.
 
-### Server Side Request Forgery
+### **Server Side Request Forgery**
 
 - [SSRF_Vulnerable_Lab](https://github.com/incredibleindishell/SSRF_Vulnerable_Lab) - This Lab contain the sample codes which are vulnerable to Server-Side Request Forgery attack
 
-### CORS Misconfiguration
+### **CORS Misconfiguration**
 
 - [CORS-vulnerable-Lab](https://github.com/incredibleindishell/CORS-vulnerable-Lab) - Sample vulnerable code and its exploit code
 - [CORS misconfiguration vulnerable Lab](https://github.com/incredibleindishell/CORS_vulnerable_Lab-Without_Database) - This Repository contains CORS misconfiguration related vulnerable codes.
 
-### XXE Injection
+### **XXE Injection**
 
 - [XXE Lab](https://github.com/jbarone/xxelab) - A simple web app with a XXE vulnerability.
 - [docker-java-xxe](https://github.com/pimps/docker-java-xxe) - Docker image to test XXE attacks in java with tomcat.
 
 
-### Request Smuggling
+### **Request Smuggling**
 
 - [Varnish HTTP/2 Request Smuggling](https://github.com/detectify/Varnish-H2-Request-Smuggling) - This repository a docker-compose file to setup a local environment that is vulnerable to CVE-2021-36740 Varnish HTTP/2 request smuggling.
 
-## Technologies
+## **Technologies**
 
-### WordPress
+### **WordPress**
 
 - [DVWP](https://github.com/vavkamil/dvwp) - Damn Vulnerable WordPress
 
-### Node.js
+### **Node.js**
 
 - [exploit-workshop](https://github.com/snyk/exploit-workshop) - A step by step workshop to exploit various vulnerabilities in Node.js and Java applications
 - [DVNA](https://github.com/appsecco/dvna) - Damn Vulnerable NodeJS Application

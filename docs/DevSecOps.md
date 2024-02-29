@@ -6,21 +6,21 @@ tags:
   - Tools
 ---
 
-# DevSecOps
+# **DevSecOps**
 
-## Обучение
+## **Обучение**
 
-- [DevSecOps-Studio](https://github.com/teacheraio/DevSecOps-Studio): DevSecOps Distribution - Virtual Environment to learn DevSecOps
+- [DevSecOps-Studio](https://github.com/teacheraio/DevSecOps-Studio): DevSecOps Distribution - виртуальная среда для изучения DevSecOps
 
-## Инструменты
+## **Инструменты**
 
-### Управление уязвимостями
+### **Управление уязвимостями**
 
-- [DefectDojo](https://github.com/DefectDojo/django-DefectDojo): DefectDojo is an open-source application vulnerability correlation and security orchestration tool.
-- [DependencyTrack](https://github.com/DependencyTrack/dependency-track): Dependency-Track is an intelligent Software Composition Analysis (SCA) platform that allows organizations to identify and reduce risk from the use of third-party and open source components. 
+- [DefectDojo](https://github.com/DefectDojo/django-DefectDojo): DefectDojo - это инструмент корреляции уязвимостей приложений и оркестровки безопасности с открытым исходным кодом.
+- [DependencyTrack](https://github.com/DependencyTrack/dependency-track): Dependency-Track - это интеллектуальная платформа анализа состава программного обеспечения (SCA), которая позволяет организациям выявлять и снижать риски, связанные с использованием компонентов сторонних разработчиков и компонентов с открытым исходным кодом.
 
-### Автоматизированное тестирование безопасности
+### **Автоматизированное тестирование безопасности**
 
-- [mobsf-ci](https://github.com/Soluto/mobsf-ci): All that is required to run MobSF in the ci
+- [mobsf-ci](https://github.com/Soluto/mobsf-ci): Все, что требуется для запуска MobSF в ci
 - [csi](https://github.com/ninp0/csi): CSI (Continuous Security Integration) Framework => Automated Security Testing for CI/CD Pipelines & Beyond
-- [glue](https://github.com/OWASP/glue): Glue is a framework for running a series of tools. Generally, it is intended as a backbone for automating a security analysis pipeline of tools.
+- [glue](https://github.com/OWASP/glue): Glue - это фреймворк для запуска ряда инструментов. В целом, он предназначен для автоматизации конвейера инструментов анализа безопасности.

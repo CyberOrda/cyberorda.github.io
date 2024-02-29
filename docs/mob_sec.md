@@ -7,11 +7,11 @@ tags:
   - IOS
 ---
 
-# Безопасность мобильных приложений
+# **Безопасность мобильных приложений**
 
-## Android
+## **Android**
 
-### Общие сведения - Блоги, статьи, инструкции
+### **Общие сведения - Блоги, статьи, инструкции**
   
 * [An Android Hacking Primer](https://medium.com/swlh/an-android-hacking-primer-3390fef4e6a0)
 * [Secure an Android Device](https://source.android.com/security)
@@ -44,9 +44,9 @@ tags:
 * [Bypassing Android Anti-Emulation](https://www.juanurs.com/Bypassing-Android-Anti-Emulation-Part-I/)
 * [Bypassing Xamarin Certificate Pinning](https://www.gosecure.net/blog/2020/04/06/bypassing-xamarin-certificate-pinning-on-android/)
 
-### Инструменты
+### **Инструменты**
      
-#### Статический анализ
+#### **Статический анализ**
 
 * [Amandroid - A Static Analysis Framework](http://pag.arguslab.org/argus-saf)
 * [Androwarn - Yet Another Static Code Analyzer](https://github.com/maaaaz/androwarn/)
@@ -72,7 +72,7 @@ tags:
 * [Android Check - плагин статического анализа кода для Android-проектов](https://github.com/noveogroup/android-check)
 * [FindBugs-IDEA Статический анализ байт-кода для поиска ошибок в Java-коде](https://plugins.jetbrains.com/plugin/3847-findbugs-idea)
 
-#### Динамический анализ
+#### **Динамический анализ**
 
 * [Android Hooker - проект с открытым исходным кодом для динамического анализа Android-приложений](https://github.com/AndroidHooker/hooker)
 * [AppAudit - Онлайн-инструмент (включая API), использующий динамический и статический анализ](http://appaudit.io/)
@@ -92,7 +92,7 @@ tags:
 * [CobraDroid - пользовательская сборка операционной системы Android, специально предназначенная для обеспечения безопасности приложений ](https://thecobraden.com/projects/cobradroid/)
 * [Magisk v20.2 - Root и универсальный бессистемный интерфейс](https://forum.xda-developers.com/apps/magisk/official-magisk-v7-universal-systemless-t3473445)
 
-#### Онлайн-анализаторы APK для Android
+#### **Онлайн-анализаторы APK для Android**
 
 * [Android Observatory APK Scan](https://androidobservatory.org/upload)
 * [Android APK Decompiler](http://www.decompileandroid.com/)
@@ -109,7 +109,7 @@ tags:
 * [Visual Threat](http://www.visualthreat.com/UIupload.action)
 * [App Critique](https://appcritique.boozallen.com/)
 
-### Talks
+### **Talks**
   
 * [One Step Ahead of Cheaters - Instrumenting Android Emulators](https://www.youtube.com/watch?v=L3AniAxp_G4)
 * [Уязвимость из коробки: оценка устройств Android для операторов](https://www.youtube.com/watch?v=R2brQvQeTvM)
@@ -130,7 +130,7 @@ tags:
 * [Получите максимальную привилегию Android Phone](https://vimeo.com/335948808)
 
 
-### Misc.
+### **Misc.**
     
 * [Android-Reports-and-Resources](https://github.com/B3nac/Android-Reports-and-Resources/blob/master/README.md)
 * [android-security-awesome](https://github.com/ashishb/android-security-awesome)
@@ -144,9 +144,9 @@ tags:
 * [Атаки на побочные каналы в сотовых сетях 4G и 5G - слайды](https://i.blackhat.com/eu-19/Thursday/eu-19-Hussain-Side-Channel-Attacks-In-4G-And-5G-Cellular-Networks.pdf)
 * [Shodan.io-mobile-app for Android](https://github.com/PaulSec/Shodan.io-mobile-app)
 
-## iOS
+## **iOS**
 
-### Общие сведения - Блоги, статьи, советы
+### **Общие сведения - Блоги, статьи, советы**
 
 * [Безопасность iOS](https://www.cse.wustl.edu/~jain/cse571-14/ftp/ios_security/index.html)
 * [Basic iOS Apps Security Testing lab](https://medium.com/@ehsahil/basic-ios-apps-security-testing-lab-1-2bf37c2a7d15)
@@ -186,7 +186,7 @@ tags:
 * [Messenger Hacking: удаленная компрометация iPhone через iMessage](https://media.ccc.de/v/36c3-10497-messenger_hacking_remotely_compromising_an_iphone_through_imessage)
 * [Воссоздание джейлбрейка iOS 0-Day из обновлений безопасности Apple](https://www.youtube.com/watch?v=p512McKXukU)
 
-### Misc.
+### **Misc.**
   
 * [Самые полезные инструменты для тестирования iOS на проникновение](https://github.com/ansjdnakjdnajkd/iOS)
 * [iOS-Security-Guides](https://github.com/0xmachos/iOS-Security-Guides)
