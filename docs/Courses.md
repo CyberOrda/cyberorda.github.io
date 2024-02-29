@@ -191,3 +191,10 @@ tags:
 и приглашайте чемпионов учиться и делиться опытом! Это еще один отличный способ пообщаться,
 встретиться с коллегами и обсудить актуальные проблемы, новости и идеи.
 
+
+## Безопасность мобильных приложений
+
+* [Learning-Android-Security](https://www.lynda.com/Android-tutorials/Learning-Android-Security/689762-2.html)
+* [Безопасность мобильных приложений и тестирование на проникновение](https://www.elearnsecurity.com/course/mobile_application_security_and_penetration_testing/)
+* [Advanced Android Development](https://developer.android.com/courses/advanced-training/overview)
+* [Изучите искусство разработки мобильных приложений](https://www.edx.org/professional-certificate/harvardx-computer-science-and-mobile-apps)

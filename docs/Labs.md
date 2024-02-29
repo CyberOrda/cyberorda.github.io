@@ -58,17 +58,35 @@ tags:
 
 ## Mobile Security
 
-- [Allsafe](https://github.com/t0thkr1s/allsafe) - Allsafe is an intentionally vulnerable application that contains various vulnerabilities.
-- [InsecureBankv2](https://github.com/dineshshetty/Android-InsecureBankv2) - Vulnerable Android application for developers and security enthusiasts to learn about Android insecurities.
-- [Vulnerable Kext](https://github.com/ant4g0nist/Vulnerable-Kext) - A WIP "Vulnerable by Design" kext for iOS/macOS to play & learn *OS kernel exploitation.
-- [InjuredAndroid](https://github.com/B3nac/InjuredAndroid) - A vulnerable Android application that shows simple examples of vulnerabilities in a ctf style. 
-- [Damn Vulnerable Bank](https://github.com/rewanthtammana/Damn-Vulnerable-Bank) -  Damn Vulnerable Bank is designed to be an intentionally vulnerable android application.
-- [InsecureShop](https://github.com/optiv/InsecureShop) - An Intentionally designed Vulnerable Android Application built in Kotlin. 
-- [AndroGoat](https://github.com/satishpatnayak/AndroGoat) - AndroGoat is purposely developed open source vulnerable/insecure app using Kotlin.
-- [DIVA Android](https://github.com/payatu/diva-android) - Damn Insecure and vulnerable App for Android.
-- [OVAA](https://github.com/oversecured/ovaa) - Oversecured Vulnerable Android App.
-- [Vuldroid](https://github.com/jaiswalakshansh/Vuldroid) - Android Application covering various static and dynamic vulnerabilities.
-- [Android Security Testing](https://github.com/RavikumarRamesh/hpAndro1337) - hpAndro1337 Application made in Kotlin with multiple vulnerabilities and a CTF.
+### Android
+* [DIVA (Damn insecure and vulnerable App)](https://github.com/payatu/diva-android)
+* [SecurityShepherd](https://github.com/OWASP/SecurityShepherd)
+* [Damn Vulnerable Hybrid Mobile App (DVHMA)](https://github.com/logicalhacking/DVHMA)
+* [OWASP-mstg](https://github.com/OWASP/owasp-mstg/tree/master/Crackmes)
+* [VulnerableAndroidAppOracle](https://github.com/dan7800/VulnerableAndroidAppOracle)
+* [Android InsecureBankv2](https://github.com/dineshshetty/Android-InsecureBankv2)
+* [Purposefully Insecure and Vulnerable Android Application (PIIVA)](https://github.com/htbridge/pivaa)
+* [Приложение Sieve](https://github.com/mwrlabs/drozer/releases/download/2.3.4/sieve.apk)
+* [DodoVulnerableBank](https://github.com/CSPF-Founder/DodoVulnerableBank)
+* [Digitalbank](https://github.com/CyberScions/Digitalbank)
+* [OWASP GoatDroid](https://github.com/jackMannino/OWASP-GoatDroid-Project)
+* [AppKnox Vulnerable Application](https://github.com/appknox/vulnerable-application)
+* [Уязвимое приложение для Android](https://github.com/Lance0312/VulnApp)
+* [MoshZuk](https://dl.dropboxusercontent.com/u/37776965/Work/MoshZuk.apk)
+* [Hackme Bank](http://www.mcafee.com/us/downloads/free-tools/hacme-bank-android.aspx)
+* [Android Security Labs](https://github.com/SecurityCompass/AndroidLabs)
+* [Android-InsecureBankv2](https://github.com/dineshshetty/Android-InsecureBankv2)
+* [Android-security](https://github.com/rafaeltoledo/android-security)
+
+### IOS
+* [OWASP iGoat](https://www.owasp.org/index.php/OWASP_iGoat_Tool_Project)
+* [Damn Vulnerable iOS App (DVIA) v2](https://github.com/prateek147/DVIA-v2)
+* [Damn Vulnerable iOS App (DVIA) v1](https://github.com/prateek147/DVIA)
+* [iPhoneLabs](https://github.com/SecurityCompass/iPhoneLabs)
+* [iOS-Attack-Defense](https://github.com/ManicodeSecurity/iOS-Attack-Defense)
+* [Pentesting iOS Applications](https://www.pentesteracademy.com/course?id=2)
+* [Reverse Engineering iOS Applications](https://github.com/ivRodriguezCA/RE-iOS-Apps)
+* [Проектирование и разработка приложений для iOS](https://www.coursera.org/learn/ios-app-design-development)
 
 ## OWASP Top 10
 

@@ -31,6 +31,6 @@ tags:
 |  | ГОСТ 15408-2 | [docs.cntd.ru/1200105710](https://docs.cntd.ru/document/1200105710) |
 |  | ГОСТ 15408-3 | [docs.cntd.ru/1200105711](https://docs.cntd.ru/document/1200105711) |
 
-## Профиля защиты
-[Профили защиты](https://www.cbr.ru/content/document/file/132666/inf_note_feb_0422.pdf)
+## Профиль защиты
+[Профиль защиты](https://www.cbr.ru/content/document/file/132666/inf_note_feb_0422.pdf)
 
