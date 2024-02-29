@@ -9,7 +9,7 @@ tags:
 
 | Название фреймворка | Описание | Ссылка |
 | -------- | -------- | ------ |
-| **SIMM** | Официальный ресурс с фреймворком | [synopsys.com](https://www.synopsys.com/software-integrity/software-security-services/bsimm-maturity-model.html) |
+| **BSIMM** | Официальный ресурс с фреймворком | [synopsys.com](https://www.synopsys.com/software-integrity/software-security-services/bsimm-maturity-model.html) |
 | **DSOMM** | Матрица DSOMM | [dsomm.owasp.org](https://dsomm.owasp.org/) |
 |  | Комплекс материалов по обзору Фреймворка DSOMM (статьи/презентации/видео/сравнения) | [github.com/devsecopsmaturitymodel](https://github.com/devsecopsmaturitymodel/DevSecOps-MaturityModel) |
 | **OWASP SAMM** | Официальный ресурс | [owasp.org/www-project-samm](https://owasp.org/www-project-samm/) |
