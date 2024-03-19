@@ -19,7 +19,7 @@ tags:
 - [XSS game](https://xss-game.appspot.com)
 - [Gin & Juice Shop](https://ginandjuice.shop/)
 
-## Платные
+## **Платные**
 
 - [PentesterLab](https://pentesterlab.com/)
 - [Hack The Box](https://www.hackthebox.eu/)

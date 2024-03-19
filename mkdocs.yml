@@ -104,7 +104,7 @@ extra:
       Мы используем твои печеньки .. Впрочем, ты и так всё понимаешь.
   social:
     - icon: fontawesome/brands/telegram
-      link: https://t.me/
+      link: https://t.me/cyberorda
       name: telegram сообщество для ORDA
   generator: false
   
