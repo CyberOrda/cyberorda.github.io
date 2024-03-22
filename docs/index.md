@@ -28,7 +28,7 @@ tags:
     <div class="card">
         <h2>Новые стандарты</h2>
         <p>Стандарты в области безопасной разработки.</p>
-        <p><a href="https://cyberorda.github.io/standarts/">Стандарты</a></p>
+        <p><a href="https://cyberorda.github.io/standards/">Стандарты</a></p>
     </div>
 
     <div class="card">
