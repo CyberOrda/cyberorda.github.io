@@ -1,0 +1,127 @@
+/* Для светлой темы (default) */
+body[data-md-color-scheme="default"] .md-header,
+body[data-md-color-scheme="default"] .md-header--primary,
+body[data-md-color-scheme="default"] .md-header--secondary {
+    box-shadow: none !important;
+    background-color: #f35353 !important; /* Укажите желаемый цвет фона для светлой темы */
+    color: #ffffff !important; /* Укажите желаемый цвет текста для светлой темы */
+}
+body[data-md-color-scheme="default"] .md-nav__link {
+    color: #000000 !important; /* Цвет текста для светлой темы */
+    font-weight: 700 !important;
+    font-size: 1.1em; /* 1.1em примерно на 10% больше, чем стандартный размер */
+}
+
+body[data-md-color-scheme="default"] .md-nav__title--site-name {
+    display: none;
+}
+
+
+body[data-md-color-scheme="default"] .md-toc .md-nav__link {
+    font-size: 16px; /* Основной размер текста */
+    font-weight: 200 !important;
+}
+
+body[data-md-color-scheme="default"] .md-toc .md-nav__link.md-nav__link--level-2 {
+    font-size: 14px; /* Меньший размер текста для подразделов */
+    font-weight: 200 !important;
+}
+
+
+body[data-md-color-scheme="default"] .grid.cards {
+    display: grid;
+    gap: 16px; /* Величина отступов между карточками */
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); /* Минимальный размер карточки и заполнение оставшегося пространства */
+}
+
+body[data-md-color-scheme="default"] .card {
+    border: 3px solid #000000; /* Опционально, рамка вокруг карточки */
+    padding: 16px; /* Отступы внутри карточки */
+    background-color: #f4f4f4; /* Фоновый цвет для карточки */
+    display: flex;
+    flex-direction: column; /* Организовываем содержимое карточки в столбец */
+    justify-content: space-between; /* Распределяем пространство равномерно между элементами карточки */
+}
+
+/* Для тёмной темы (slate) */
+body[data-md-color-scheme="slate"] .md-header,
+body[data-md-color-scheme="slate"] .md-header--primary,
+body[data-md-color-scheme="slate"] .md-header--secondary {
+    box-shadow: none !important;
+    background-color: #030017 !important; /* Укажите желаемый цвет фона для тёмной темы */
+    color: #ffffff !important; /* Укажите желаемый цвет текста для тёмной темы */
+}
+body[data-md-color-scheme="slate"] .md-nav__link {
+    color: #f35353 !important; /* Цвет текста для светлой темы */
+    font-weight: 700 !important;
+    font-size: 1.1em; /* 1.1em примерно на 10% больше, чем стандартный размер */
+}
+
+body[data-md-color-scheme="slate"] .md-nav__title--site-name {
+    display: none;
+}
+
+
+body[data-md-color-scheme="slate"] .md-toc .md-nav__link {
+    font-size: 16px; /* Основной размер текста */
+    font-weight: 200 !important;
+}
+
+body[data-md-color-scheme="slate"] .md-toc .md-nav__link.md-nav__link--level-2 {
+    font-size: 14px; /* Меньший размер текста для подразделов */
+    font-weight: 200 !important;
+}
+
+body[data-md-color-scheme="slate"] .grid.cards {
+    display: grid;
+    gap: 16px; /* Расстояние между карточками */
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); /* Количество колонок в сетке */
+    align-items: stretch; /* Растягиваем карточки по высоте */
+}
+
+body[data-md-color-scheme="slate"] .card {
+    border: 3px solid #9d0000; /* Опционально, рамка вокруг карточки */
+    padding: 16px; /* Отступы внутри карточки */
+    background-color: #030017; /* Фоновый цвет для карточки */
+    display: flex;
+    flex-direction: column; /* Организовываем содержимое карточки в столбец */
+    justify-content: space-between; /* Распределяем пространство равномерно между элементами карточки */
+    height: 100%;
+}
+
+body[data-md-color-scheme="slate"] .card a {
+    color: #fae0e0; /* Укажите желаемый цвет ссылки */
+    text-decoration: none; /* Опционально, если вы хотите убрать подчёркивание ссылки */
+}
+
+body[data-md-color-scheme="slate"] .card a:hover {
+    color: #f47979; /* Цвет ссылки при наведении курсора */
+    text-decoration: underline; /* Опционально, если вы хотите добавить подчёркивание при наведении */
+}
+
+
+/* Ваш файл extra.css */
+.announcement-bar {
+    background-color: #ff8c00; /* Цвет фона */
+    color: white; /* Цвет текста */
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 9999; /* Убедитесь, что панель находится над другими элементами */
+    transition: top 0.3s; /* Добавляем плавность анимации */
+}
+
+.announcement-bar button {
+    position: absolute;
+    top: 50%;
+    right: 20px;
+    transform: translateY(-50%);
+    background: none;
+    border: none;
+    color: white;
+    font-size: 20px;
+    cursor: pointer;
+}
