@@ -26,14 +26,14 @@ tags:
 * [XSS to RCE in ...](https://matatall.com/xss/rce/bugbounty/2015/09/08/xss-to-rce.html)
 * [One Payload to XSS Them All! ](https://ahussam.me/One-payload-to-xss-them/)
 * [Uber Bug Bounty: превращаем Self-XSS в Good-XSS - Джек](https://whitton.io/articles/uber-turning-self-xss-into-good-xss/)
-* [Мой "публичный Evernote": Turning Self-XSS into Good XSS v2: Challenge Completed but Not Rewarded](https://httpsonly.blogspot.com/2016/08/turning-self-xss-into-good-xss-v2.html)
+* [Мой "public Evernote": Turning Self-XSS into Good XSS v2: Challenge Completed but Not Rewarded](https://httpsonly.blogspot.com/2016/08/turning-self-xss-into-good-xss-v2.html)
 * [How I XSS'ed Uber and Bypassed CSP - Efkan - Medium](https://medium.com/@efkan162/how-i-xssed-uber-and-bypassed-csp-9ae52404f4c5)
 * [Запись обхода XSS "403 запрещено" - Nur A Alam Dipu - Medium](https://medium.com/@nuraalamdipu/xss-403-forbidden-bypass-write-up-e070de52bc06)
 * [Подмена содержимого Medium приводит к XSS](https://ahussam.me/Medium-content-spoofing-xss/)
 * [Reflected Client XSS at Amazon.com - Jonathan Bouman - Medium](https://medium.com/@jonathanbouman/reflected-client-xss-amazon-com-7b0d3cec787)
-* [Airbnb - когда обход JSON-кодировки, XSS-фильтра, WAF, CSP и аудитора превращается в восемь уязвимостей](https://buer.haus/2017/03/08/airbnb-when-bypassing-json-encoding-xss-filter-waf-csp-and-auditor-turns-into-eight-vulnerabilities/)
+* [Airbnb - когда обход JSON-кодировки, XSS-фильтра, WAF, CSP и auditor превращается в восемь уязвимостей](https://buer.haus/2017/03/08/airbnb-when-bypassing-json-encoding-xss-filter-waf-csp-and-auditor-turns-into-eight-vulnerabilities/)
 * [CSP: обход действия формы с помощью отраженного XSS](https://labs.detectify.com/2016/04/04/csp-bypassing-form-action-with-reflected-xss/)
-* [Взлом XSS-митигаций с помощью Script Gadgets](https://www.blackhat.com/docs/us-17/thursday/us-17-Lekies-Dont-Trust-The-DOM-Bypassing-XSS-Mitigations-Via-Script-Gadgets.pdf)
+* [Взлом XSS-mitigations с помощью Script Gadgets](https://www.blackhat.com/docs/us-17/thursday/us-17-Lekies-Dont-Trust-The-DOM-Bypassing-XSS-Mitigations-Via-Script-Gadgets.pdf)
 * [sirdarckcat: 🤷 Unpatched (0day) jQuery Mobile XSS](https://sirdarckcat.blogspot.com/2017/02/unpatched-0day-jquery-mobile-xss.html)
 * ['>">123\: [dev.twitter.com] XSS](https://blog.blackfan.ru/2017/09/devtwittercom-xss.html)
 * [[BBP系列二] Uber XSS via Cookie | zhchbin](https://zhchbin.github.io/2017/08/30/Uber-XSS-via-Cookie/)
@@ -75,7 +75,7 @@ tags:
 
 * [Browser's XSS Filter Bypass Cheat Sheet - masatokinugawa/filterbypass Wiki](https://github.com/masatokinugawa/filterbypass/wiki/Browser's-XSS-Filter-Bypass-Cheat-Sheet)
 * [cure53/H5SC: HTML5 Security Cheatsheet - коллекция векторов XSS-атак, связанных с HTML5](https://github.com/cure53/H5SC)
-* [Коллекция полезных нагрузок XSS в гетто ](https://d3adend.org/xss/ghettoBypass)
+* [Коллекция полезных нагрузок XSS в getto ](https://d3adend.org/xss/ghettoBypass)
 * [cujanovic/Markdown-XSS-Payloads: XSS полезные нагрузки для эксплуатации синтаксиса Markdown](https://github.com/cujanovic/Markdown-XSS-Payloads)
 * [PayloadsAllTheThings/XSS-инъекция в master - swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/XSS%20injection)
 
@@ -83,8 +83,8 @@ tags:
 
 * [evilcos/xssor2: XSS'OR - взлом с помощью JavaScript](https://github.com/evilcos/xssor2)
 * [DanMcInerney/xsscrapy: XSS spider - обнаружено 66/66 wavsep XSS](https://github.com/DanMcInerney/xsscrapy)
-* [nVisium/xssValidator: Это расширитель отрыжки, предназначенный для автоматизации и проверки XSS-уязвимостей](https://github.com/nVisium/xssValidator)
-* [mandatoryprogrammer/xssless: Автоматизированный генератор XSS-платежей, написанный на python.](https://github.com/mandatoryprogrammer/xssless)
+* [nVisium/xssValidator: Это расширитель Burp, предназначенный для автоматизации и проверки XSS-уязвимостей](https://github.com/nVisium/xssValidator)
+* [mandatoryprogrammer/xssless: Автоматизированный генератор XSS-payloads, написанный на python.](https://github.com/mandatoryprogrammer/xssless)
 * [stamparm/DSXS: Damn Small XSS Scanner](https://github.com/stamparm/DSXS)
 * [JSFuck](http://www.jsfuck.com/)
 * [XSS Hunter - лучший способ борьбы с межсайтовым скриптингом](https://xsshunter.com/)
@@ -97,7 +97,7 @@ tags:
 * [Блог h3xStream: Аудит заголовков CSP с помощью Burp и ZAP](https://blog.h3xstream.com/2016/06/auditing-csp-headers-with-burp-and-zap.html)
 * [[CSP] Об отчетности и фильтрации | Dropbox Tech Blog](https://blogs.dropbox.com/tech/2015/09/on-csp-reporting-and-filtering/)
 * [Как использовать Google CSP Evaluator для обхода CSP - блог Томаса Орлиты](https://blog.thomasorlita.cz/vulns/google-csp-evaluator/)
-* [Обход CSP с помощью полиглотских JPEG | Блог](https://portswigger.net/blog/bypassing-csp-using-polyglot-jpegs)
+* [Обход CSP с помощью JPEG-polyglots | Блог](https://portswigger.net/blog/bypassing-csp-using-polyglot-jpegs)
 * [Chrome XSS Auditor - SVG Bypass - Brute XSS](https://brutelogic.com.br/blog/chrome-xss-auditor-svg-bypass/)
 * [Аккуратный обход CSP](https://lab.wallarm.com/how-to-trick-csp-in-letting-you-run-whatever-you-want-73cb5ff428aa)
 * [A Novel CSP Bypass Using data: URI](https://www.nccgroup.trust/us/about-us/newsroom-and-events/blog/2019/april/a-novel-csp-bypass-using-data-uri/)
@@ -105,12 +105,12 @@ tags:
 ### **Burp Extensions**
 
 * [PortSwigger/csp-auditor: плагин Burp и ZAP для анализа заголовков CSP](https://github.com/portswigger/csp-auditor)
-* [PortSwigger/csp-bypass: Плагин Burp для обнаружения слабых мест в политиках безопасности контента](https://github.com/portswigger/csp-bypass)
+* [PortSwigger/csp-bypass: Плагин Burp для обнаружения слабых мест в CSP](https://github.com/portswigger/csp-bypass)
 
 ## **Regular Expression**
 
 * [attackercan/regexp-security-cheatsheet](https://github.com/attackercan/regexp-security-cheatsheet)
-* [RegexOne - Изучение регулярных выражений ](https://regexone.com/)
+* [RegexOne - Сайт, для изучения регулярных выражений ](https://regexone.com/)
 
 ## **Cross Site Request Forgery**
 
@@ -120,9 +120,9 @@ tags:
 * [Получение токенов входа для учетной записи Outlook, Office или Azure - Jack](https://whitton.io/articles/obtaining-tokens-outlook-office-azure-account/)
 * [Messenger.com Site-Wide CSRF - Jack](https://whitton.io/articles/messenger-site-wide-csrf/)
 * [Кража токенов доступа Facebook с помощью CSRF в потоке входа на устройство - Josip Franjković](https://www.josipfranjkovic.com/blog/hacking-facebook-csrf-device-login-flow)
-* [[PayPal BBP]] Я мог удалить все SMC-сообщения. Используя технику грубой силы.](https://blog.ayoubaitelmokhtar.com/2018/06/paypal-bbp-i-couldve-deleted-all-smc.html)
+* [[PayPal BBP] Я мог удалить все SMC-сообщения. Используя bruteforce.](https://blog.ayoubaitelmokhtar.com/2018/06/paypal-bbp-i-couldve-deleted-all-smc.html)
 * [Facebook GraphQL CSRF - Это не те access_tokens, которые вы ищете](https://philippeharewood.com/facebook-graphql-csrf/)
-* [#44146 Выполнение вызовов API от имени другого пользователя (обход защиты CSRF)](https://hackerone.com/reports/44146)
+* [#44146 Выполнение вызовова API от имени другого пользователя (обход защиты CSRF)](https://hackerone.com/reports/44146)
 * [Paypal bug bounty: Обновление картинки профиля Paypal.me без согласия пользователя (CSRF-атака)](https://hethical.io/paypal-bug-bounty-updating-the-paypal-me-profile-picture-without-consent-csrf-attack/)
 * [Как я обнаружил ошибку Remote Code Execution, затрагивающую серверы Facebook](https://www.ubercomp.com/posts/2014-01-16_facebook_remote_code_execution)
 
@@ -135,10 +135,10 @@ tags:
 ### **Tools**
 
 * [SWF-based JSON CSRF exploitation Tool](https://github.com/sp1d3r/swf_json_csrf)
-* [appsecco/json-flash-csrf-poc: Это репо содержит файлы, необходимые для проведения CSRF-атаки с использованием Flash и перенаправления HTTP 307](https://github.com/appsecco/json-flash-csrf-poc)
+* [appsecco/json-flash-csrf-poc: Этот репозиторий содержит файлы, необходимые для проведения CSRF-атаки с использованием Flash и перенаправления HTTP 307](https://github.com/appsecco/json-flash-csrf-poc)
 
 ## **Angular JS**
-* [Philippe De Ryck on Twitter: "Как топ-10 @OWASP влияет на приложения #Angular? Эта #шпаргалка по безопасности охватывает набор лучших практик для 5 наиболее актуальных проблем для @Angular-приложений"](https://twitter.com/PhilippeDeRyck/status/1042360699572379648)
+* [Philippe De Ryck on Twitter: "Как OWASP top 10 влияет на приложения #Angular? Эта #шпаргалка по безопасности охватывает набор лучших практик для 5 наиболее актуальных проблем для @Angular-приложений"](https://twitter.com/PhilippeDeRyck/status/1042360699572379648)
 * [Angular - Top 10 Security Best Practices vis-a-vis Security Risks - Reskilling IT](https://vitalflux.com/angular-top-10-security-best-practices-vis-vis-security-risks/)
 * [XSS без HTML: Client-Side Template Injection with AngularJS | Blog](https://portswigger.net/blog/xss-without-html-client-side-template-injection-with-angularjs)
 * [DOM-based AngularJS sandbox escapes | Blog](https://portswigger.net/blog/dom-based-angularjs-sandbox-escapes)
@@ -147,7 +147,7 @@ tags:
 
 ## **React JS**
 
-* [XSS через поддельный элемент React](http://danlec.com/blog/xss-via-a-spoofed-react-element)
+* [XSS через spoofed элемент React](http://danlec.com/blog/xss-via-a-spoofed-react-element)
 
 ## **postMessage vulnerabilities**
 
@@ -170,9 +170,9 @@ tags:
 * [The pitfalls of postMessage](https://labs.detectify.com/2016/12/08/the-pitfalls-of-postmessage/)
 * [PostMessage XSS на миллионе сайтов](https://labs.detectify.com/2016/12/15/postmessage-xss-on-a-million-sites/)
 * [#207042 Кража данных контактной формы на www.hackerone.com с помощью Marketo Forms XSS с использованием postMessage frame-jumping и jQuery-JSONP](https://hackerone.com/reports/207042)
-* [#217745 XSS в $shop$.myshopify.com/admin/ через "Объекты кнопок" во вредоносном приложении](https://hackerone.com/reports/217745)
+* [#217745 XSS в $shop$.myshopify.com/admin/ через "Button objects" во вредоносном приложении](https://hackerone.com/reports/217745)
 * [Read&Write Chrome Extension Same Origin Policy (SOP) Bypass Vulnerability | The Hacker Blog](https://thehackerblog.com/reading-your-emails-with-a-readwrite-chrome-extension-same-origin-policy-bypass-8-million-users-affected/index.html)
-* [#231053 XSS в любом магазине Shopify через злоупотребление структурированным алгоритмом клонирования HTML5 в слушателе postMessage на "/:id/digital_wallets/dialog"](https://hackerone.com/reports/231053)
+* [#231053 XSS в любом магазине Shopify через злоупотребление структурированным алгоритмом клонирования HTML5 в postMessage listener на "/:id/digital_wallets/dialog"](https://hackerone.com/reports/231053)
 * [Взлом Slack с помощью postMessage и WebSocket-reconnect для кражи вашего драгоценного токена](https://labs.detectify.com/2017/02/28/hacking-slack-using-postmessage-and-websocket-reconnect-to-steal-your-precious-token/)
 
 ## **Flash Security**
@@ -181,7 +181,7 @@ tags:
 
 * [Adobe ActionScript® 3 (AS3) API Reference](https://help.adobe.com/en_US/FlashPlatform/reference/actionscript/3/)
 * [senocular.com - Security Domains, Application Domains, and More in ActionScript 3.0](http://www.senocular.com/flash/tutorials/contentdomains/)
-* [Тестирование на межсайтовое проникновение (OTG-CLIENT-008) - OWASP](https://www.owasp.org/index.php/Testing_for_Cross_site_flashing_(OTG-CLIENT-008))
+* [Тестирование на xss (OTG-CLIENT-008) - OWASP](https://www.owasp.org/index.php/Testing_for_Cross_site_flashing_(OTG-CLIENT-008))
 
 ### **Writeups**
 
@@ -207,7 +207,7 @@ tags:
 * [#199779 Google Analytics может быть использован как обход CSP для утечки данных на hackerone.com](https://hackerone.com/reports/199779)
 * [GitHub's post-CSP journey | GitHub Engineering](https://githubengineering.com/githubs-post-csp-journey/)
 * [AppSec EU 2017 So We Broke All CSPs You Won't Guess What Happened Next by Michele Spagnuolo - YouTube](https://www.youtube.com/watch?v=YBBqtrJmMRc)
-* [Открытки из мира после XSS](http://lcamtuf.coredump.cx/postxss/)
+
 
 
 ## **JSON Hijacking**
@@ -250,6 +250,6 @@ tags:
 ## **CORS Vulnerabilities**
 
 * [Test Cross Origin Resource Sharing (OTG-CLIENT-007) - OWASP](https://www.owasp.org/index.php/Test_Cross_Origin_Resource_Sharing_(OTG-CLIENT-007) )
-* [Авторитетное руководство по CORS (Cross-Origin Resource Sharing) для REST API | Moesif's Musings on Software](https://www.moesif.com/blog/technical/cors/Authoritative-Guide-to-CORS-Cross-Origin-Resource-Sharing-for-REST-APIs/)
+* [Руководство по CORS (Cross-Origin Resource Sharing) для REST API | Moesif's Musings on Software](https://www.moesif.com/blog/technical/cors/Authoritative-Guide-to-CORS-Cross-Origin-Resource-Sharing-for-REST-APIs/)
 * [Критическая проблема открыла приватные чаты пользователей Facebook Messenger для злоумышленников - Cynet](https://www.cynet.com/blog-facebook-originull/)
 * [The Complete Guide to CORS (In)Security](https://www.bedefended.com/papers/cors-security-guide)

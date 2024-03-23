@@ -35,12 +35,12 @@ tags:
 * [GEOST BOTNET - история обнаружения нового банковского трояна для Android](http://public.avast.com/research/VB2019-Garcia-etal.pdf)
 * [Mobile Pentesting With Frida](https://drive.google.com/file/d/1JccmMLi6YTnyRrp_rk6vzKrUX3oXK_Yw/view)
 * [Magisk Systemless Root - обнаружение и устранение](https://www.mobileiron.com/en/blog/magisk-android-rooting)
-* [AndrODet: адаптивный детектор обфускации Android](https://arxiv.org/pdf/1910.06192.pdf)
+* [AndrODet: адаптивное обнаружение обфускации Android](https://arxiv.org/pdf/1910.06192.pdf)
 * [Hands On Mobile API Security](https://hackernoon.com/hands-on-mobile-api-security-get-rid-of-client-secrets-a79f111b6844)
 * [Zero to Hero - Mobile Application Testing - Android Platform](https://nileshsapariya.blogspot.com/2016/11/zero-to-hero-mobile-application-testing.html)
 * [Как использовать FRIDA для взлома Secure Startup с FDE-шифрованием на Samsung G935F под управлением Android 8](https://github.com/Magpol/fridafde)
 * [Android Malware Adventures](https://docs.google.com/presentation/d/1pYB522E71hXrp4m3fL3E3fnAaOIboJKqpbyE5gSsOes/edit)
-* [AAPG - руководство по тестированию Android-приложений на проникновение](https://nightowl131.github.io/AAPG/)
+* [AAPG - руководство по тестированию на проникновение Android-приложений ](https://nightowl131.github.io/AAPG/)
 * [Bypassing Android Anti-Emulation](https://www.juanurs.com/Bypassing-Android-Anti-Emulation-Part-I/)
 * [Bypassing Xamarin Certificate Pinning](https://www.gosecure.net/blog/2020/04/06/bypassing-xamarin-certificate-pinning-on-android/)
 
@@ -76,7 +76,7 @@ tags:
 
 * [Android Hooker - проект с открытым исходным кодом для динамического анализа Android-приложений](https://github.com/AndroidHooker/hooker)
 * [AppAudit - Онлайн-инструмент (включая API), использующий динамический и статический анализ](http://appaudit.io/)
-* [AppAudit - Инструмент для анализа "голого металла" Android-устройств](https://github.com/ucsb-seclab/baredroid)
+* [AppAudit - Инструмент для анализа Android-устройств](https://github.com/ucsb-seclab/baredroid)
 * [CuckooDroid - Расширение Cuckoo Sandbox с открытым исходным кодом](https://github.com/idanr1986/cuckoo-droid)
 * [DroidBox - Динамический анализ Android-приложений](https://code.google.com/p/droidbox/)
 * [Droid-FF - Android File Fuzzing Framework](https://github.com/antojoseph/droid-ff)
@@ -150,7 +150,7 @@ tags:
 
 * [Безопасность iOS](https://www.cse.wustl.edu/~jain/cse571-14/ftp/ios_security/index.html)
 * [Basic iOS Apps Security Testing lab](https://medium.com/@ehsahil/basic-ios-apps-security-testing-lab-1-2bf37c2a7d15)
-* [Безопасность IOS-приложений - настройка платформы для мобильного пентестирования](https://resources.infosecinstitute.com/ios-application-security-part-1-setting-up-a-mobile-pentesting-platform/#gref)
+* [Безопасность IOS-приложений - настройка платформы для mobile penetration testing](https://resources.infosecinstitute.com/ios-application-security-part-1-setting-up-a-mobile-pentesting-platform/#gref)
 * [Коллекция наиболее распространенных уязвимостей, найденных в iOS-приложениях](https://github.com/felixgr/secure-ios-app-dev)
 * [IOS_Application_Security_Testing_Cheat_Sheet](https://www.owasp.org/index.php/IOS_Application_Security_Testing_Cheat_Sheet)
 * [OWASP iOS Basic Security Testing](https://mobile-security.gitbook.io/mobile-security-testing-guide/ios-testing-guide/0x06b-basic-security-testing)
