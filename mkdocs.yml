@@ -81,8 +81,9 @@ nav:
     - 'Mobile Secuirty': 'mob_sec.md'
     - 'Desktop Security': 'des_sec.md'
   - Инструменты DevSecOps: 'DevSecOps.md'
-  - MlSecOps: 'MlSecOps.md':
-    - "Фреймворки MlSecOps":"mlsecops_frameworks.md"
+  - MlSecOps:
+    - 'Инструменты и курсы по MlSecOps': 'MlSecOps.md'
+    - "Фреймворки MlSecOps": "mlsecops_frameworks.md"
   - Стандарты безопасной разработки: 'standards.md'
   - Фреймворки безопасной разработки: 'frameworks.md'
   - Методология: 'methodology.md'
