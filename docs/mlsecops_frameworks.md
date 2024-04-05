@@ -17,7 +17,7 @@ tags:
 | **Nist Adversarial Machine Learning A Taxonomy and Terminology of Attacks and Mitigations** | Фреймворк от Nist, систематизирующий знания по состязательным атакам, а также их таксономию. | [nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-2e2023.pdf](https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-2e2023.pdf) |
 | **AI Risk Assessment for ML Engineers** | Документ, позволяющий оценить зрелость организации при построении безопасного машинного обучения. | [learn.microsoft.com/en-us/security/ai-red-team/ai-risk-assessment](https://learn.microsoft.com/en-us/security/ai-red-team/ai-risk-assessment) |
 | **Gartner AI Trust, Risk, and Security Management (AI TRiSM)** | Фреймворк, выпущенный Gartner, охватывающий такие проблемы как целостность, предвзятость, конфиденциальность, объяснимость. | [learn.microsoft.com/en-us/security/ai-red-team/ai-risk-assessment](https://www.gartner.com/en/articles/what-it-takes-to-make-ai-safe-and-effective) |
-| **IBM Framework for Securing Generative AI** | Фреймворк, для защиты GenAI. | [learn.microsoft.com/en-us/security/ai-red-team/ai-risk-assessment](https://www.ibm.com/blog/announcement/ibm-framework-for-securing-generative-ai/) |
+| **IBM Framework for Securing Generative AI** | Фреймворк, для защиты Generative AI. | [learn.microsoft.com/en-us/security/ai-red-team/ai-risk-assessment](https://www.ibm.com/blog/announcement/ibm-framework-for-securing-generative-ai/) |
 
 ...
 
