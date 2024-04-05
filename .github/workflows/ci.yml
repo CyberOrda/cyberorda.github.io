@@ -20,9 +20,7 @@ jobs:
           python-version: 3.x
       - run: echo "cache_id=$(date --utc '+%V')" >> $GITHUB_ENV
         env:
-            MKDOCS_GIT_COMMITTERS_APIKEY: ${{ secrets.MKDOCS_GIT_COMMITTERS_APIKEY }}
-            USER_NAME: ${{ env.USER_NAME }}
-            USER_EMAIL: ${{ env.USER_EMAIL }}
+            MKDOCS_GIT_COMMITTERS_APIKEY: ${{ env.MKDOCS_GIT_COMMITTERS_APIKEY }}
       - uses: actions/cache@v4
         with:
           key: mkdocs-material-${{ env.cache_id }}
@@ -35,21 +33,3 @@ jobs:
       - run: pip install mkdocs-with-pdf
       - run: pip install mkdocs-minify-plugin
       - run: mkdocs gh-deploy --force
-      
-      - name: Checkout gh-pages branch
-        uses: actions/checkout@v2
-        with:
-          ref: gh-pages
-
-      - name: Create CNAME file
-        run: echo "cyberorda.ru" > CNAME
-
-      - name: Commit and Push CNAME file
-        run: |
-        git config --global user.name $USER_NAME
-        git config --global user.email $USER_EMAIL
-        git add CNAME
-        git commit -m "Update CNAME file" || echo "add CNAME"
-        git push origin gh-pages
-      env:
-        GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
