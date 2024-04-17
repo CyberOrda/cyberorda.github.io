@@ -111,6 +111,8 @@ tags:
 
 * [attackercan/regexp-security-cheatsheet](https://github.com/attackercan/regexp-security-cheatsheet)
 * [RegexOne - Сайт, для изучения регулярных выражений ](https://regexone.com/)
+* [ReDoS Checker](https://devina.io/redos-checker)
+* [Recheck](https://makenowjust-labs.github.io/recheck/playground/)
 
 ## **Cross Site Request Forgery**
 
