@@ -75,7 +75,7 @@ tags:
 #### **Динамический анализ**
 
 * [Android Hooker - проект с открытым исходным кодом для динамического анализа Android-приложений](https://github.com/AndroidHooker/hooker)
-* [AppAudit - Онлайн-инструмент (включая API), использующий динамический и статический анализ](http://appaudit.io/)
+* [AppAudit - Онлайн-инструмент (включая API), использующий динамический и статический анализ](http://appaudit.net/)
 * [AppAudit - Инструмент для анализа Android-устройств](https://github.com/ucsb-seclab/baredroid)
 * [CuckooDroid - Расширение Cuckoo Sandbox с открытым исходным кодом](https://github.com/idanr1986/cuckoo-droid)
 * [DroidBox - Динамический анализ Android-приложений](https://code.google.com/p/droidbox/)
