@@ -23,5 +23,8 @@ tags:
 ### **Автоматизированное тестирование безопасности**
 
 - [mobsf-ci](https://github.com/Soluto/mobsf-ci): Все, что требуется для запуска MobSF в ci
-- [csi](https://github.com/ninp0/csi): CSI (Continuous Security Integration) Framework => Automated Security Testing for CI/CD Pipelines & Beyond
 - [glue](https://github.com/OWASP/glue): Glue - это фреймворк для запуска ряда инструментов. В целом, он предназначен для автоматизации конвейера инструментов анализа безопасности.
+
+### **Хранениe секретов**
+
+- [HashiCorp Vault](https://github.com/hashicorp/vault)
