@@ -144,3 +144,6 @@ tags:
 - [DVNA](https://github.com/appsecco/dvna) - Damn Vulnerable NodeJS Application
 - [Extreme Vulnerable Node Application](https://github.com/vegabird/xvna) - Extreme Vulnerable Node Application
 - [dvws-node](https://github.com/snoopysecurity/dvws-node) - Damn Vulnerable Web Service is a vulnerable web service/API/application that can be used to learn webservices/API vulnerabilities.
+
+### CICD
+- [CICD Goat](https://github.com/cider-security-research/cicd-goat) - Deliberately vulnerable CI/CD environment. Hack CI/CD pipelines, capture the flags.

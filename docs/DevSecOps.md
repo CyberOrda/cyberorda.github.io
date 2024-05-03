@@ -28,3 +28,11 @@ tags:
 ### **Хранениe секретов**
 
 - [HashiCorp Vault](https://github.com/hashicorp/vault)
+
+### **Безопасность контейнеров**
+
+- [CIS Docker Benchmark](https://github.com/docker/docker-bench-security): Скрипт для проверки на соответствие best practice.
+- [Dockle](https://github.com/goodwithtech/dockle):  Послойный анализ образа контейнера на соответствие best practice.
+- [Trivy](https://github.com/aquasecurity/trivy): Анализ образа контейнера на наличие CVE.
+- [KICS](https://github.com/Checkmarx/kics): Ультимативная штука по анализу IaC. В отличии от других сканеров, может проверить и docker compose файлы на мисконфигурации.
+- [Hadolint](https://github.com/hadolint/hadolint): Линтер Dockerfile.
