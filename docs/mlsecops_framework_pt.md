@@ -7,5 +7,5 @@ tags:
 ---
 
 
-## **Фреймворк MlSecOps от Positive Tecnologies**
+## **MlSecOps Process Framework**
 

@@ -84,7 +84,7 @@ nav:
   - MlSecOps:
     - 'Инструменты и курсы по MlSecOps': 'MlSecOps.md'
     - "Фреймворки MlSecOps": "mlsecops_frameworks.md"
-    - "Фреймворк MlSecOps от Positive Technologies": "mlsecops_framework_pt.md"
+    - "MlSecOps Process Framework": "mlsecops_framework_pt.md"
     - "Доклад по MlSecOps на PHDays2024": "mlsecops_phdays_paper.md"
   - Стандарты безопасной разработки: 'standards.md'
   - Фреймворки безопасной разработки: 'frameworks.md'
