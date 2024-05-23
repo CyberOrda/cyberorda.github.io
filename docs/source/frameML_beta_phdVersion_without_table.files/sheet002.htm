@@ -1,0 +1,294 @@
+<html xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1251">
+<meta name=ProgId content=Excel.Sheet>
+<meta name=Generator content="Microsoft Excel 15">
+<link id=Main-File rel=Main-File
+href="../frameML_beta_phdVersion_without_table.htm">
+<link rel=File-List href=filelist.xml>
+<link rel=Stylesheet href=stylesheet.css>
+<style>
+<!--table
+	{mso-displayed-decimal-separator:"\,";
+	mso-displayed-thousand-separator:" ";}
+@page
+	{margin:.75in .7in .75in .7in;
+	mso-header-margin:.3in;
+	mso-footer-margin:.3in;}
+-->
+</style>
+<![if !supportTabStrip]><script language="JavaScript">
+<!--
+function fnUpdateTabs()
+ {
+  if (parent.window.g_iIEVer>=4) {
+   if (parent.document.readyState=="complete"
+    && parent.frames['frTabs'].document.readyState=="complete")
+   parent.fnSetActiveSheet(1);
+  else
+   window.setTimeout("fnUpdateTabs();",150);
+ }
+}
+
+if (window.name!="frSheet")
+ window.location.replace("../frameML_beta_phdVersion_without_table.htm");
+else
+ fnUpdateTabs();
+//-->
+</script>
+<![endif]>
+</head>
+
+<body link="#0563C1" vlink="#954F72">
+
+<table border=0 cellpadding=0 cellspacing=0 width=1845 style='border-collapse:
+ collapse;table-layout:fixed;width:1384pt'>
+ <col width=365 style='mso-width-source:userset;mso-width-alt:12730;width:274pt'>
+ <col width=491 style='mso-width-source:userset;mso-width-alt:17128;width:368pt'>
+ <col class=xl66 width=522 style='mso-width-source:userset;mso-width-alt:18222;
+ width:392pt'>
+ <col class=xl66 width=467 style='mso-width-source:userset;mso-width-alt:16290;
+ width:350pt'>
+ <tr height=77 style='height:58.0pt'>
+  <td rowspan=3 height=309 class=xl78 width=365 style='height:232.0pt;
+  width:274pt'>Построение процесса управления уязвимостями в платформе
+  разработки</td>
+  <td class=xl77 width=491 style='border-left:none;width:368pt'>Внедрение
+  периодического сканирования платформы для выявления потенциальных
+  уязвимостей.</td>
+  <td class=xl75 width=522 style='border-left:none;width:392pt'><span
+  style='mso-spacerun:yes'> </span>Это должно включать сканирование
+  операционной системы, библиотек и платформ, используемых во время
+  разработки.<br>
+    Внедрение автоматизированных инструментальных проверок безопасности в MLOPS
+  конвейер - не то же самое?</td>
+  <td class=xl66 width=467 style='width:350pt'></td>
+ </tr>
+ <tr height=155 style='height:116.0pt'>
+  <td height=155 class=xl77 width=491 style='height:116.0pt;border-top:none;
+  border-left:none;width:368pt'>Управление рисками и дефектами</td>
+  <td class=xl67 width=522 style='border-top:none;border-left:none;width:392pt'>Необходимо
+  формализовать работу с обнаруженными дефектами как в процессе разработки, так
+  и в процессе эксплуатации ML-приложений. Выделить зоны ответственности по
+  отработке и триажу дефектов, выстроить процессы передачи дефектов
+  разработчикам, эскалации дефектов. Кроме того, разработать подходы для оценки
+  и приоритезации дефектов, которые будут регламентировать очерёдность,
+  критичность и допустимость эксплойта. Очень важно использовать
+  централизованное место разбора дефектов (например, дефект-трекер или
+  инструмент оркестрации).</td>
+  <td class=xl66 width=467 style='width:350pt'></td>
+ </tr>
+ <tr height=77 style='height:58.0pt'>
+  <td height=77 class=xl77 width=491 style='height:58.0pt;border-top:none;
+  border-left:none;width:368pt'>Управление исправлениями/обновлениями</td>
+  <td class=xl67 width=522 style='border-top:none;border-left:none;width:392pt'>Необходимо
+  выстроить работу по исправлению дефектов, доработкой модели и ML сервисов, а
+  так же выпуском обновлений и патчей. Это включает в себя как формализованный
+  процесс распределения и решения задач, автоматизации CD процесса и т.д.</td>
+  <td class=xl66 width=467 style='width:350pt'></td>
+ </tr>
+ <tr height=174 style='height:130.5pt'>
+  <td rowspan=5 height=736 class=xl78 width=365 style='border-bottom:.5pt solid black;
+  height:552.5pt;width:274pt'>Построение процесса реагирования на инциденты
+  безопасности</td>
+  <td class=xl77 width=491 style='border-top:none;border-left:none;width:368pt'>Мониторг
+  платформы для обнаружения подозрительной активности</td>
+  <td class=xl75 width=522 style='border-top:none;border-left:none;width:392pt'>Уже
+  было много написано в пред.домене. Как вариант, заменить на СОК:<br>
+    Security operations center - центр постоянного мониторинга приложений.Это
+  группа сотрудников, которые занимаются круглосуточным контролем за
+  приложением, технической поддержкой, предотвращением инцидентов и
+  реагированием на них. В арсенале имееются инструменты мониторинга сетевой
+  безопасности, антивирусное ПО, журналы событий и данные о приложении. Чтобы
+  упорядочить всю эту информацию, как правило, используется SIEM - система управления
+  информацией и событиями безопасности.<span style='mso-spacerun:yes'> </span></td>
+  <td class=xl66 width=467 style='width:350pt'></td>
+ </tr>
+ <tr height=79 style='mso-height-source:userset;height:59.5pt'>
+  <td height=79 class=xl77 width=491 style='height:59.5pt;border-top:none;
+  border-left:none;width:368pt'>Управление инцидентами</td>
+  <td class=xl67 width=522 style='border-top:none;border-left:none;width:392pt'>Формирование
+  группы экстренного реагирования на инциденты, пути эскалации, основные
+  принципы реагирования и т.д. Кроме того, стоит измерять все инциденты
+  метриками и вести учёт всех удачных и неудачных атак.</td>
+  <td class=xl66 width=467 style='width:350pt'></td>
+ </tr>
+ <tr height=168 style='mso-height-source:userset;height:126.0pt'>
+  <td height=168 class=xl77 width=491 style='height:126.0pt;border-top:none;
+  border-left:none;width:368pt'>Техподдержка</td>
+  <td class=xl67 width=522 style='border-top:none;border-left:none;width:392pt'>Необходимо
+  внедрить группу сотрудников, которые будут заниматься сопровождением и
+  технической поддержкой ML-приложений и ML-моделей. Эти сотрудники будут
+  ответственными за связь и отработку заявок от пользователей и заказчиков,
+  эскалацию возникших инцидентов и обнаруженных уязвимостей.<span
+  style='mso-spacerun:yes'> </span></td>
+  <td class=xl66 width=467 style='width:350pt'></td>
+ </tr>
+ <tr height=199 style='mso-height-source:userset;height:149.5pt'>
+  <td height=199 class=xl77 width=491 style='height:149.5pt;border-top:none;
+  border-left:none;width:368pt'>Разработка политики реагирования на инциденты
+  безопаности</td>
+  <td class=xl67 width=522 style='border-top:none;border-left:none;width:392pt'>Процесс
+  реагирования на инциденты можно дополнить политикой реагирования, в котором
+  будут описаны какие могут возникнуть недопустимые события и план поведения в
+  случае их возникновения. Это позволит иметь конкретную инструкцию к действию
+  в случае появления инцидентов, что ускорит время устранения инцидента и
+  слаженность действий сотрудников. При написании плейбука в первую очередь
+  можно руководствоваться уже совершёнными инцидентами и реакцией на них, а так
+  же стоит сразу учитывать потенциально недопустимые события.</td>
+  <td class=xl66 width=467 style='width:350pt'></td>
+ </tr>
+ <tr height=116 style='height:87.0pt'>
+  <td height=116 class=xl77 width=491 style='height:87.0pt;border-top:none;
+  border-left:none;width:368pt'>Проведение обучения и учений по реагированию на
+  инциденты</td>
+  <td class=xl67 width=522 style='border-top:none;border-left:none;width:392pt'>Для
+  оценки процессов реагирования на инциденты рекомендуется проводить
+  киберучения, симулирующие настоящие атаки и недопустимые события. Для
+  составления плана такого вида обучения можно руководствоваться уже
+  совершёнными инцидентами и путями эксплойта. По результатам такого
+  мероприятия можно оценивать эффективность принятых мер, работы сотрудников и
+  корректировать политику реагирования.</td>
+  <td class=xl66 width=467 style='width:350pt'></td>
+ </tr>
+ <tr height=135 style='height:101.5pt'>
+  <td rowspan=6 height=832 class=xl78 width=365 style='border-bottom:.5pt solid black;
+  height:624.0pt;border-top:none;width:274pt'>Анализ защищённости</td>
+  <td class=xl77 width=491 style='border-top:none;border-left:none;width:368pt'>Тестирование
+  на проникновение</td>
+  <td class=xl67 width=522 style='border-top:none;border-left:none;width:392pt'>Тестирование
+  на проникновение - имитирует атаки злоумышленника, позволяя оценить
+  защищённость приложения методом поиска и экспулатации уязвимостей. Цель
+  такого тестирования - обнаружить недостатки и слабые места в системе, которые
+  могут привести к недопустимым событиям. Пентесты можно проводить внутренними
+  силами или подрядчиками. Следует определить периодичность пентестами и
+  сделать их обязательными для всех приложений .</td>
+  <td class=xl66 width=467 style='width:350pt'></td>
+ </tr>
+ <tr height=135 style='height:101.5pt'>
+  <td height=135 class=xl77 width=491 style='height:101.5pt;border-top:none;
+  border-left:none;width:368pt'>Внедрение программы BugBounty<span
+  style='mso-spacerun:yes'> </span></td>
+  <td class=xl67 width=522 style='border-top:none;border-left:none;width:392pt'>Программа
+  вознаграждения за обнаружение ошибок (баг баунти) - это инициатива, в рамках
+  которой Организация предлагают вознаграждение исследователям в области
+  безопасности за обнаружение уязвимостей в разрабатываемых продуктах.
+  Баг-баунти поощряют людей раскрывать уязвимости, а не эксплуатировать их, что
+  повышает защищённость разрабатываемого ПО. Вознаграждение может варьироваться
+  в зависимости от серьезности уязвимости и политики конкретной программы.</td>
+  <td class=xl66 width=467 style='width:350pt'></td>
+ </tr>
+ <tr height=116 style='height:87.0pt'>
+  <td height=116 class=xl77 width=491 style='height:87.0pt;border-top:none;
+  border-left:none;width:368pt'>Анализ инцидентов и не только</td>
+  <td class=xl67 width=522 style='border-top:none;border-left:none;width:392pt'>Возникшие
+  инциденты, а так же информацию об обнаруженных уязвимостях, результаты работы
+  инструментальных проверок и собираемые метрики можно использовать в качестве
+  оценки MLOps-процесса. На основе получаемых данных можно проводить
+  ретроспективу, оценивать причины и последствия инцидентов, выявлять слабые
+  места и, при необходимости, корректировать MLOps-процесс.</td>
+  <td class=xl66 width=467 style='width:350pt'></td>
+ </tr>
+ <tr height=155 style='height:116.0pt'>
+  <td height=155 class=xl77 width=491 style='height:116.0pt;border-top:none;
+  border-left:none;width:368pt'>Аудиты</td>
+  <td class=xl67 width=522 style='border-top:none;border-left:none;width:392pt'>Аудит
+  - формализованный процесс проверки соответствия требованиям и стандартам,
+  применяемым к данным, ML-моделям и приложению. Аудит можно проводить
+  внутренними силами организации, что позволит проводить более глубокий анализ
+  за счёт большей осведомлённости аудиторами приложения и проверки не только
+  внешних регуляторов, но и внутренней ОРД. Для стандартизации и ускорения
+  процесса можно разработать собственную методику проверки. Следует определить
+  периодичность аудитов и сделать их обязательными.</td>
+  <td class=xl66 width=467 style='width:350pt'></td>
+ </tr>
+ <tr height=174 style='height:130.5pt'>
+  <td height=174 class=xl77 width=491 style='height:130.5pt;border-top:none;
+  border-left:none;width:368pt'>Исследовательская группа</td>
+  <td class=xl67 width=522 style='border-top:none;border-left:none;width:392pt'>Определение
+  исследовательской группы сотрудников, которые будут заниматься поиском
+  уязвимостей и слабых мест. Исследования подразумевают как анализ самого
+  приложения так и изучение известных и новых уязвимостей, опыта других
+  организаций, событий в отрасли ML и т.д. Чтобы упорядочить работу
+  исследовательской группы нужно определить сотрудников, зоны ответственности и
+  периодичность подобных работ. Можно внедрить некоторый исследовательский
+  коммитет, который будет состоять из сотрудников разных отделов, что позволит
+  учитывать разные аспекты безопасности приложения, но основные действующие
+  лица - аппсеки.</td>
+  <td class=xl66 width=467 style='width:350pt'></td>
+ </tr>
+ <tr height=117 style='height:87.5pt'>
+  <td height=117 class=xl77 width=491 style='height:87.5pt;border-top:none;
+  border-left:none;width:368pt'>Моделирование угроз для каждого
+  разрабатываемого приложения и платформы разработки</td>
+  <td class=xl67 width=522 style='border-top:none;border-left:none;width:392pt'>Модель
+  угроз используется для анализа и понимания рисков и потенциальных угроз
+  безопасности. В рамках моделирования угроз проводится анализ уязвимостей,
+  которые могут быть использованы злоумышленниками для получения
+  несанкционированного доступа к системе или данным, определение возможных
+  методов атак, а так же оценки возможных последствия их реализации.</td>
+  <td class=xl66 width=467 style='width:350pt'></td>
+ </tr>
+ <tr height=174 style='height:130.5pt'>
+  <td rowspan=3 height=464 class=xl88 width=365 style='border-bottom:.5pt solid black;
+  height:348.0pt;width:274pt'>Построение MLOps-конвейера<span
+  style='mso-spacerun:yes'> </span></td>
+  <td class=xl77 width=491 style='border-top:none;border-left:none;width:368pt'>Формализация
+  и построение всего MLOPS конвейера</td>
+  <td class=xl67 width=522 style='border-top:none;border-left:none;width:392pt'>Выше
+  уже писали про построение платформы управления данными, разработки ML-моделей
+  и эксплуатации приложений. Необходимо выстроить, стандартизировать и
+  формализовать (включая написание регламентирующей документации) полноценный
+  процесс всего MLOps-конвейера, который объединяет все лучшие практики
+  безопасной разработки всего жизненного цикла модели. Конвейер MLOPS должен
+  автоматизировать процесс разработки, проверки безопасности, оценку
+  уязвимостей и мониторинг моделей. Определить все необходимые шаги, роли,
+  используемые инструменты, работы по сопровождению и организационные аспекты.</td>
+  <td class=xl66 width=467 style='width:350pt'></td>
+ </tr>
+ <tr height=174 style='height:130.5pt'>
+  <td height=174 class=xl77 width=491 style='height:130.5pt;border-top:none;
+  border-left:none;width:368pt'>Внедрение автоматизированных инструментальных
+  проверок безопасности в MLOPS конвейер<span style='mso-spacerun:yes'> </span></td>
+  <td class=xl67 width=522 style='border-top:none;border-left:none;width:392pt'>Каждый
+  этап MLOPS должен сопровождаться инструментальными проверками: анализ данных,
+  статический анализ исходного кода, динамический анализ приложения,
+  компонентный анализ и другие специфичные для машинного обучения и/или
+  специфики разрабатываемых активов инструменты. Для максимально результативной
+  работы все проверки должны быть автоматизированы и встроены в качестве
+  обязательных шагов в ML-процессы. Хорошей практикой будет внедрить
+  полноценную платформу (инструмент оркестрации) для управления всеми проверками
+  и создания единого интерфейса, которые будет агрегировать все
+  результаты.<span style='mso-spacerun:yes'> </span></td>
+  <td class=xl66 width=467 style='width:350pt'></td>
+ </tr>
+ <tr height=116 style='height:87.0pt'>
+  <td height=116 class=xl77 width=491 style='height:87.0pt;border-top:none;
+  border-left:none;width:368pt'>Организация взаимодействия между специалистами
+  по обработке данных, инженерами по безопасности и эксплуатационными группами</td>
+  <td class=xl67 width=522 style='border-top:none;border-left:none;width:392pt'>Для
+  построения полноценного MLOps-конвейера жизненно необходимо организовать
+  слаженную работу между специалистами по обработке данных, инженерами по
+  безопасности, разработчиками и эксплуатационными группами и смежными
+  отделами. Продумать орг.структуру, определить должностные функции и
+  выполняемые задачи, определоить точки пересечения зон интересов и порядок
+  взаимодействия.<span style='mso-spacerun:yes'> </span></td>
+  <td class=xl66 width=467 style='width:350pt'></td>
+ </tr>
+ <![if supportMisalignedColumns]>
+ <tr height=0 style='display:none'>
+  <td width=365 style='width:274pt'></td>
+  <td width=491 style='width:368pt'></td>
+  <td width=522 style='width:392pt'></td>
+  <td width=467 style='width:350pt'></td>
+ </tr>
+ <![endif]>
+</table>
+
+</body>
+
+</html>

@@ -86,6 +86,7 @@ nav:
     - "Фреймворки MlSecOps": "mlsecops_frameworks.md"
     - "MlSecOps Process Framework": "mlsecops_framework_pt.md"
     - "Доклад по MlSecOps на PHDays2024": "mlsecops_phdays_paper.md"
+    - "Инструменты для реализации MlSecOps": "m1s3c0p3_tools.md"
   - Стандарты безопасной разработки: 'standards.md'
   - Фреймворки безопасной разработки: 'frameworks.md'
   - Методология: 'methodology.md'
@@ -162,7 +163,7 @@ plugins:
       htmlmin_opts:
           remove_comments: true
       cache_safe: true
-
+  
 
 repo_url: https://github.com/CyberOrda/cyberorda.github.io
 repo_name: CyberOrda/cyberorda.github.io

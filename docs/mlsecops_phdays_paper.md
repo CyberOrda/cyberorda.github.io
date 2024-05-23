@@ -26,3 +26,4 @@ tags:
 | AI Risk Assessment for ML Engineers                         | [Microsoft Documentation](https://learn.microsoft.com/en-us/security/ai-red-team/ai-risk-assessment)                                                                        |
 | Secure AI Framework Approach                                | [SAIF.pdf](https://cyberorda.com/pdf/google_secure_ai_framework_approach.pdf)                                                                                                                                                                       |
 | MLOps конвейер                                              | [arXiv Paper](https://arxiv.org/pdf/2205.02302)                                                                                                                             |
+| MlSecOps tools                                              | [https://cyberorda.com/m1s3c0p3_tools/](https://cyberorda.com/m1s3c0p3_tools/)      
