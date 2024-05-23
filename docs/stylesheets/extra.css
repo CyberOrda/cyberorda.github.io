@@ -125,3 +125,10 @@ body[data-md-color-scheme="slate"] .card a:hover {
     font-size: 20px;
     cursor: pointer;
 }
+
+
+
+.page-header {
+    display: none;
+  }
+  
