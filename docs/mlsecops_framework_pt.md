@@ -12,10 +12,10 @@ tags:
 
 ### **Фреймворк в HTML**
 
-[HTML-страница](https://cyberorda.com/source/frameML_beta_phdVersion_without_table.htm)
+[HTML-страница](source/MlSecOps_Process_Framework.htm)
 
 
 ### **Фреймворк в Excel**
 
-[Фреймворк в xlsx версии](https://cyberorda.com/tables/MlSecOps_Process_Framework.xlsx)
+[Фреймворк в xlsx версии](tables/MlSecOps_Process_Framework.xlsx)
 
