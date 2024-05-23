@@ -12,7 +12,7 @@ tags:
 
 ### **Фреймворк в HTML**
 
-[HTML-страница](source/MlSecOps_Process_Framework.htm)
+[HTML-страница](source/MlSecOps_Process_Framework.html)
 
 
 ### **Фреймворк в Excel**
