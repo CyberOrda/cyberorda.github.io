@@ -33,9 +33,12 @@ tags:
 - [mobsf-ci](https://github.com/Soluto/mobsf-ci): Все, что требуется для запуска MobSF в ci
 - [glue](https://github.com/OWASP/glue): Glue - это фреймворк для запуска ряда инструментов. В целом, он предназначен для автоматизации конвейера инструментов анализа безопасности.
 
-### **Хранениe секретов**
+### **Управление секретами**
 
-- [HashiCorp Vault](https://github.com/hashicorp/vault)
+- [HashiCorp Vault](https://github.com/hashicorp/vault): HashiCorp Vault - управление секретами. 
+- [Yopass](https://github.com/jhaals/yopass): Yopass - безопасная передача секретов.
+- [git-crypt](https://github.com/AGWA/git-crypt): git-crypt - шифрует файлы и каталоги в репозитории Git.
+- [blackbox](https://github.com/StackExchange/blackbox): blackbox - позволяет управлять секретами в Git.
 
 ### **Безопасность контейнеров**
 
