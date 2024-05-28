@@ -72,6 +72,9 @@ markdown_extensions:
   - attr_list
   - md_in_html
   - tables
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
 
 nav:
   - Blog:

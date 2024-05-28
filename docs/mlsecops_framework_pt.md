@@ -12,10 +12,15 @@ tags:
 
 ### **Фреймворк в HTML**
 
-[HTML-страница](source/MlSecOps_Process_Framework.html)
+[Посмотреть без скачивания](source/MlSecOps_Process_Framework.html)
 
 
 ### **Фреймворк в Excel**
 
-[Фреймворк в xlsx версии](tables/MlSecOps_Process_Framework.xlsx)
+[XLSX версия](tables/MlSecOps_Process_Framework.xlsx)
 
+!!! Внимание
+
+    Данный фреймворк находится в стадии активной доработки. Некоторые домены и содержимое могут изменится
+    до момента оффициального релиза. Фреймворк пока что не принадлежит какой-либо компании и каждый может
+    принять участие в его доработке.
