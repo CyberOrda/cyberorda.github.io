@@ -10,7 +10,7 @@ tags:
 
 Курируемый на русском языке список ресурсов, которые относятся к MlSecOps(ну и немножко про атаки на AI).
 
-[![mm.png](https://i.postimg.cc/VL6C6tKF/mm.png)](https://postimg.cc/SjBs1nFX)
+[![mm.png](img/mm.png)](img/mm.png)
 
 ## Содержание
 - [Инструменты с открытым исходным кодом](#инструменты-с-открытым-исходным-кодом)
@@ -176,5 +176,5 @@ tags:
 [![MLSecOps_Lifecycle](https://github.com/RiccardoBiosas/awesome-MLSecOps/assets/65150720/236cd3f4-bce8-4659-b43f-8d4002df65a5)](https://www.conf42.com/DevSecOps_2022_Eugene_Neelou_ai_introducing_mlsecops_for_software_20)
 
 ### Карты рынка безопасности ИИ
-[![Market Map](https://i.postimg.cc/15ZxH0q9/marketmap.png)](https://menlovc.com/perspective/security-for-ai-genai-risks-and-the-emerging-startup-landscape/)
+[![Market Map](img/marketmap.png)](img/marketmap.png)
 <img width="1024" alt="image_2024-04-18_18-15-29" src="https://github.com/wearetyomsmnv/awesome-MLSecOps/assets/129667548/bb29607b-1396-4653-a8e3-475bdd0b9dd1">
