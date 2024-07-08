@@ -133,21 +133,21 @@ tags:
 к примеру: 
 
 ```
-![Орда фото](https://superwalls.top/uploads/posts/2022-03/1646253100_10-gamerwall-pro-p-varkraft-orki-drenora-krasivie-oboi-11.jpg){ align=center }{ width="200" }
+![Орда фото](https://images.stopgame.ru/uploads/images/249721/form/1362301115.jpg){ align=center }{ width="200" }
 ```
 
 Даст нам вот такую картинку
 
-![Орда фото](https://superwalls.top/uploads/posts/2022-03/1646253100_10-gamerwall-pro-p-varkraft-orki-drenora-krasivie-oboi-11.jpg){ align=center }
+![Орда фото](https://images.stopgame.ru/uploads/images/249721/form/1362301115.jpg){ align=center }
 
 Однако, вы можете также использовать html на странице для загрузки контента:
 
 ```
-<img src="https://superwalls.top/uploads/posts/2022-03/1646253100_10-gamerwall-pro-p-varkraft-orki-drenora-krasivie-oboi-11.jpg" alt="Орда фото" width="200" style="display:block; margin:auto;"/>
+<img src="https://images.stopgame.ru/uploads/images/249721/form/1362301115.jpg" alt="Орда фото" width="200" style="display:block; margin:auto;"/>
 ```
 Это будет отображатсься так 
 
-<img src="https://superwalls.top/uploads/posts/2022-03/1646253100_10-gamerwall-pro-p-varkraft-orki-drenora-krasivie-oboi-11.jpg" alt="Орда фото" width="200" style="display:block; margin:auto;"/>
+<img src="https://images.stopgame.ru/uploads/images/249721/form/1362301115.jpg" alt="Орда фото" width="200" style="display:block; margin:auto;"/>
 
 Для загрузки картинок вы можете использовать [postimages.co](https://postimages.org/)
 
