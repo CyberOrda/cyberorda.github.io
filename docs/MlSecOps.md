@@ -342,14 +342,15 @@ Research on privacy in large language models, aiming to protect data and prevent
 - [OWASP Top 10 for Large Language Model Applications](https://owasp.org/www-project-top-10-for-large-language-model-applications/)
 - [OWASP LLMSVS](https://owasp.org/www-project-llm-verification-standard/)
 - [OWASP Periodic Table of AI Security](https://owaspai.org/goto/periodictable/)
-- [OWASP SLACK](https://owasp.org/slack/invite)
-    #### #project-top10-for-llm
-    #### #ml-risk-top5
-    #### #project-ai-community
-    #### #project-mlsec-top10
-    #### #team-llm_ai-secgov
-    #### #team-llm-redteam
-    #### #team-llm-v2-brainstorm
+- [OWASP SLACK](https://owasp.org/slack/invite)    
+Следующие каналы:
+    - #project-top10-for-llm
+    - #ml-risk-top5
+    - #project-ai-community
+    - #project-mlsec-top10
+    - #team-llm_ai-secgov
+    - #team-llm-redteam
+    - #team-llm-v2-brainstorm
     
 - [Awesome LLM Security](https://github.com/corca-ai/awesome-llm-security)
 - [Hackstery](https://hackstery.com/)
@@ -379,7 +380,8 @@ Research on privacy in large language models, aiming to protect data and prevent
 [![MLSecOps Lifecycle](https://github.com/RiccardoBiosas/awesome-MLSecOps/assets/65150720/236cd3f4-bce8-4659-b43f-8d4002df65a5)](https://www.conf42.com/DevSecOps_2022_Eugene_Neelou_ai_introducing_mlsecops_for_software_20)
 
 ### AI Security Market Map
-[![Market Map](https://i.postimg.cc/15ZxH0q9/marketmap.png)](https://menlovc.com/perspective/security-for-ai-genai-risks-and-the-emerging-startup-landscape/)
+![image](https://github.com/user-attachments/assets/c929bab0-ece4-43cc-b63b-a0b2c387b633)
+
 
 
 
