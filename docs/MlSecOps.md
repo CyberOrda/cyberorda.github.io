@@ -27,6 +27,7 @@ tags:
 - [Ресурсы сообщества](#ресурсы-сообщества)
 - [Книги и курсы](#книги-и-курсы)
 - [Инфографики](#инфографики)
+- [Законодательство и постановления](#законодательство-и-постановления)
 
 
 
@@ -330,8 +331,34 @@ Data Poisoning Attacks](https://arxiv.org/pdf/2006.12557.pdf)
 ### AI Security Market Map
 ![image](https://github.com/user-attachments/assets/c929bab0-ece4-43cc-b63b-a0b2c387b633)
 
+ Конечно, я объединю эти два списка в один, сохраняя всю доступную информацию. Вот результат:
 
+## Законодательство и постановления
 
+| Страна | Название документа | Краткое описание | Основные направления | Ссылка |
+|--------|---------------------|-------------------|----------------------|--------|
+| Россия | ИСКУССТВЕННЫЙ ИНТЕЛЛЕКТ. ТЕХНИЧЕСКАЯ СТРУКТУРА ФЕДЕРАТИВНОЙ СИСТЕМЫ МАШИННОГО ОБУЧЕНИЯ | | | https://protect.gost.ru/v.aspx?control=8&baseC=6&page=0&month=12&year=-1&search=&RegNum=1&DocOnPageCount=15&id=245476 |
+| Россия | ПНСТ 848-2023 Искусственный интеллект. Большие данные. Обзор и требования по обеспечению сохранности данных. | | | https://docs.cntd.ru/document/1304365959 |
+| Россия | ПНСТ 847-2023 Искусственный интеллект. Большие данные. Функциональные требования в отношении происхождения данных | | | https://protect.gost.ru/document1.aspx?control=31&baseC=6&page=2&month=9&year=-1&search=&id=256915 |
+| Россия | Оценка качества систем искусственного интеллекта. Общие положения. ГОСТ Р 59898-2021 | | | |
+| Россия | Информационные технологии. Интеллект искусственный. Оценка робастности нейронных сетей. Часть 1. Обзор. ГОСТ Р 70462.1-2022/ISO/IEC TR 24029-1-2021 | | | |
+| Россия | Системы искусственного интеллекта. Способы обеспечения доверия. Общие положения. ГОСТ Р 59276-2020 | | | |
+| США | Biden's AI executive order | Указ устанавливает новые стандарты безопасности ИИ, требуя от разработчиков мощных систем делиться результатами испытаний с правительством. | Министру торговли поручено разработать руководство и лучшие практики по безопасности ИИ в течение 270 дней. Подчеркивается важность безопасности и беспристрастности систем ИИ для национальной обороны и критической инфраструктуры. | https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/30/fact-sheet-president-biden-issues-executive-order-on-safe-secure-and-trustworthy-artificial-intelligence/ |
+| США | FTC: Keep your AI claims in check | | | https://www.ftc.gov/business-guidance/blog/2023/02/keep-your-ai-claims-check |
+| США | FAA - Unmanned Aircraft Vehicles | | | https://www.faa.gov/regulations_policies/rulemaking/committees/documents/index.cfm/committee/browse/committeeID/837 |
+| США | NHTSA - Automated Vehicle safety | | | https://www.nhtsa.gov/vehicle-safety/automated-vehicles-safety |
+| США | AI Bill of Rights | | | https://www.whitehouse.gov/ostp/ai-bill-of-rights/ |
+| Япония | Relaxing copyright for AI training | Economic growth takes priority over regulation | | https://www.privacyworld.blog/2024/03/japans-new-draft-guidelines-on-ai-and-copyright-is-it-really-ok-to-train-ai-using-pirated-materials/ |
+| Великобритания | AI white paper | Principle-based approach, decentralized governance | | https://commission.europa.eu/system/files/2020-02/commission-white-paper-artificial-intelligence-feb2020_en.pdf |
+| Китай | Rules for GenAI services | Extraterritorial scope, content monitoring | | https://www.insideglobaltech.com/2023/08/30/labeling-of-ai-generated-content-new-guidelines-released-in-china/ |
+| Сингапур | Voluntary AI Verify system | Self-assessment against principles, global alignment | | |
+| Австралия | AI ethics framework | Voluntary principles, considering stricter laws | | https://ethics-of-ai.mooc.fi/chapter-1/4-a-framework-for-ai-ethics/ |
+| Евросоюз | AI Act | Risk-based framework, banned uses, standards for high-risk AI | | https://artificialintelligenceact.eu/ |
+| Международный | ISO/IEC 42001 Artificial intelligence — Management system | | | https://www.iso.org/standard/81230.html |
+| Международный | ISO/IEC 22989 — Artificial intelligence — Concepts and terminology | | | https://www.iso.org/standard/74296.html |
+| Международный | ISO/IEC 38507 — Governance of IT — Governance implications of the use of artificial intelligence by organizations | | | https://www.iso.org/standard/56641.html |
+| Международный | ISO/IEC 23894 — Artificial Intelligence — Guidance on Risk Management | | | https://www.iso.org/standard/77304.html |
+| Международный | ANSI/UL 4600 Standard for Safety for the Evaluation of Autonomous Products | Addresses fully autonomous systems that move such as self-driving cars, and other vehicles including lightweight unmanned aerial vehicles (UAVs). | Includes safety case construction, risk analysis, design process, verification and validation, tool qualification, data integrity, human-machine interaction, metrics and conformance assessment. | https://users.ece.cmu.edu/~koopman/ul4600/index.html |
 
 
 
