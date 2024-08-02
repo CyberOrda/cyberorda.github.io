@@ -14,6 +14,25 @@ tags:
 
 ## **Инструменты**
 
+
+#### SAST (Static Application Security Testing)
+
+- [SonarQube](https://www.sonarqube.org/): Платформа для непрерывного анализа и измерения качества кода.
+- [Checkmarx SAST](https://www.checkmarx.com/products/static-application-security-testing-sast/): Коммерческое решение для статического анализа кода.
+- [Fortify Static Code Analyzer](https://www.microfocus.com/en-us/products/static-code-analysis-sast/overview): Инструмент статического анализа кода от Micro Focus.
+- [Semgrep](https://semgrep.dev/): Легковесный статический анализатор для многих языков программирования.
+- [Bandit](https://github.com/PyCQA/bandit): Инструмент для поиска проблем безопасности в Python коде.
+- [PT AI](https://www.ptsecurity.com/ww-en/products/ai/): Инструмент для статического анализа от Positive Technologies
+
+#### DAST (Dynamic Application Security Testing)
+
+- [OWASP ZAP](https://www.zaproxy.org/): Бесплатный инструмент для динамического анализа веб-приложений.
+- [Burp Suite](https://portswigger.net/burp): Популярная платформа для ручного тестирования безопасности веб-приложений.
+- [Acunetix](https://www.acunetix.com/): Автоматизированный сканер уязвимостей веб-приложений.
+- [Qualys Web Application Scanning](https://www.qualys.com/apps/web-app-scanning/): Облачное решение для динамического анализа веб-приложений.
+- [Positive Technologies BlackBox](https://www.ptsecurity.com/ru-ru/products/blackbox/): Решение для автоматизированного тестирования ресурсов методом чёрного ящика.
+
+
 ### **Управление уязвимостями**
 
 - [DefectDojo](https://github.com/DefectDojo/django-DefectDojo): DefectDojo - это инструмент корреляции уязвимостей приложений и оркестровки безопасности с открытым исходным кодом.
