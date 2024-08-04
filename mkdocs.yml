@@ -90,6 +90,27 @@ nav:
     - "MlSecOps Process Framework": "mlsecops_framework_pt.md"
     - "Доклад по MlSecOps на PHDays2024": "mlsecops_phdays_paper.md"
     - "Инструменты для реализации MlSecOps": "m1s3c0p3_tools.md"
+    - LLMSecOps(*new):
+      - "Главная": 'index_llmsecops.md'
+      - "Архитектура": 'llm_architecture.md'
+      - "Уязвимости": 'llm_vulnerabilities.md'
+      - "Инструменты": "llm_tools.md"
+      - "Защита": "llm_defense.md"
+      - "Моделирование угроз": "llm_threat_modeling.md"
+      - "Джейлбрейки": "jailbreaks.md"
+      - "Безопасность RAG": "rag_security.md"
+      - "PoC": "poc.md"
+      - "Учебные материалы": "llm_study_resources.md"
+      - "Книги": "llm_books.md"
+      - "Блоги": "llm_blogs.md"
+      - "Наборы данных для тестирования": "llm_datasets.md"
+      - "Безопасность OPS": "llm_ops_security.md"
+      - "Фреймворки": "llm_frameworks.md"
+      - "Лучшие практики": "llm_best_practices.md"
+      - "Исследования": "llm_research.md"
+      - "Руководства": "llm_tutorials.md"
+      - "Компании": "llm_companies.md"
+      - "Сообщество": "llm_community.md"
   - Стандарты безопасной разработки: 'standards.md'
   - Фреймворки безопасной разработки: 'frameworks.md'
   - Методология: 'methodology.md'
