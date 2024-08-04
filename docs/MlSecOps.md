@@ -38,9 +38,9 @@ tags:
 
 | Инструмент | Описание |
 |------------|----------|
-| [ModelScan](https://github.com/protectai/modelscan) | Защита от атак сериализации ML-моделей |
-| [NB Defense](https://nbdefense.ai) | Безопасность Jupyter Notebooks |
-| [Garak](https://github.com/leondz/garak) | Сканер уязвимостей LLM |
+| [ModelScan(sast)](https://github.com/protectai/modelscan) | Защита от атак сериализации ML-моделей |
+| [NB Defense(sast)](https://nbdefense.ai) | Безопасность Jupyter Notebooks |
+| [Garak(dast)](https://github.com/leondz/garak) | Сканер уязвимостей LLM |
 | [Adversarial Robustness Toolbox](https://github.com/IBM/adversarial-robustness-toolbox) | Библиотека методов защиты ML-моделей от состязательных атак |
 | [MLSploit](https://github.com/mlsploit/) | Облачная платформа для интерактивных экспериментов с исследованиями состязательного машинного обучения |
 | [TensorFlow Privacy](https://github.com/tensorflow/privacy) | Библиотека алгоритмов и инструментов машинного обучения с сохранением конфиденциальности |
@@ -63,13 +63,13 @@ tags:
 | [Damn Vulnerable LLM Project](https://github.com/harishsg993010/DamnVulnerableLLMProject) | Большая языковая модель, разработанная для взлома |
 | [Gandalf Lakera](https://gandalf.lakera.ai/) | Площадка для CTF с инъекцией промптов |
 | [Prompt Airlines](https://promptairlines.com) | CTF, котоаря похоже на Gandalf|
-| [Vigil](https://github.com/deadbits/vigil-llm) | Сканер инъекций промптов и безопасности LLM |
+| [Vigil(dast)](https://github.com/deadbits/vigil-llm) | Сканер инъекций промптов и безопасности LLM |
 | [PALLMs (Payloads for Attacking Large Language Models)](https://github.com/mik0w/pallms) | Список различных полезных нагрузок для атак на LLM, собранных в одном месте |
 | [AI-exploits](https://github.com/protectai/ai-exploits) | Эксплойты для систем MLOps. Тут не только prompt injections. |
 | [Offensive ML Playbook](https://wiki.offsecml.com/Welcome+to+the+Offensive+ML+Playbook) | Руководство по наступательному ML. Заметки об атаках на машинное обучение и тестировании на проникновение |
 | [AnonLLM](https://github.com/fsndzomga/anonLLM) | Анонимизация персональной идентифицируемой информации (PII) для API больших языковых моделей |
 | [AI Goat](https://github.com/dhammon/ai-goat) | Ещё один CTF для LLM |
-| [Pyrit](https://github.com/Azure/PyRIT) | Инструмент идентификации рисков на Python для генеративного ИИ |
+| [Pyrit(dast*)](https://github.com/Azure/PyRIT) | Инструмент идентификации рисков на Python для генеративного ИИ |
 | [Raze to the Ground: Query-Efficient Adversarial HTML Attacks on Machine-Learning Phishing Webpage Detectors](https://github.com/advmlphish/raze_to_the_ground_aisec23) | Исходный код статьи "Raze to the Ground: Query-Efficient Adversarial HTML Attacks on Machine-Learning Phishing Webpage Detectors", принятой на AISec '23 |
 | [Giskard](https://github.com/Giskard-AI/giskard) | Инструмент тестирования с открытым исходным кодом для приложений LLM |
 | [Safetensors](https://github.com/huggingface/safetensors) | Конвертация pickle в безопасный вариант сериализации |
@@ -82,7 +82,7 @@ tags:
 | [VGER](https://github.com/JosephTLucas/vger) | Фреймворк атак для Jupyter |
 | [AIShield Watchtower](https://github.com/bosch-aisecurity-aishield/watchtower) | Инструмент с открытым исходным кодом от AIShield для изучения AI-моделей и сканирования уязвимостей |
 | [PS-fuzz](https://github.com/prompt-security/ps-fuzz) | Инструмент для сканирования уязвимостей LLM |
-| [Mindgard-cli](https://github.com/Mindgard/cli/) | Проверка безопасности вашего AI через CLI |
+| [Mindgard-cli(dast)](https://github.com/Mindgard/cli/) | Проверка безопасности вашего AI через CLI |
 | [PurpleLLama3](https://meta-llama.github.io/PurpleLlama/) | Проверка безопасности LLM с помощью бенчмарка Meta LLM |
 | [Model transparency](https://github.com/sigstore/model-transparency) | Генерация подписи модели |
 | [ARTkit](https://github.com/BCG-X-Official/artkit) | Автоматизированное тестирование и оценка приложений генеративного ИИ на основе промптов |
@@ -96,9 +96,9 @@ tags:
 
 | Инструмент | Описание |
 |------------|----------|
-| [Databricks Platform, Azure Databricks](https://azure.microsoft.com/ru-ru/products/databricks) | Инструмент управления и внедрения данных в озере данных |
+| [Databricks Platform, Azure Databricks](https://azure.microsoft.com/ru-ru/products/databricks) | Инструмент управления и внедрения данных в data-lake |
 | [Hidden Layer AI Detection Response](https://hiddenlayer.com/aidr/) | Инструмент для обнаружения инцидентов и реагирования на них |
-| [Guardian](https://protectai.com/guardian) | Защита модели в CI/CD |
+| [Guardian(sast)](https://protectai.com/guardian) | Защита модели в CI/CD |
 
 ## ДАННЫЕ
 
@@ -116,7 +116,7 @@ tags:
 
 | Инструмент | Описание |
 |------------|----------|
-| [lintML](https://github.com/JosephTLucas/lintML) | Линтер безопасности для ML от Nvidia |
+| [lintML(sast)](https://github.com/JosephTLucas/lintML) | Линтер безопасности для ML от Nvidia |
 | [HiddenLayer: Model as Code](https://hiddenlayer.com/research/models-are-code/) | Исследование некоторых векторов в библиотеках ML |
 | [Copycat CNN](https://github.com/jeiks/Stealing_DL_Models) | Proof-of-concept о том, как создать копию сверточной нейронной сети |
 | [differential-privacy-library](https://github.com/IBM/differential-privacy-library) | Библиотека, предназначенная для дифференциальной приватности и машинного обучения |
