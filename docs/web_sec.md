@@ -16,11 +16,9 @@ tags:
 ### **Reflected XSS**
 
 * [Codegrazer: 7 отраженных межсайтовых скриптов (XSS)](http://codegrazer.com/blog/7-reflected-xss.html)
-* [X-XSS-Nightmare: 1; mode=attack XSS-атаки, эксплуатирующие XSS-фильтр](https://www.slideshare.net/masatokinugawa/xxn-en)
 * [Построение XSS-вектора, не используя букв - inventropy](https://inventropy.us/blog/constructing-an-xss-vector-using-no-letters)
 * [PwnDizzle: XSS, расширения и Content-Types](https://pwndizzle.blogspot.com/2015/07/xss-extensions-and-content-types.html)
 * [Обход XSS-защиты Ebay для запуска XSS by...](https://whitehatnepal.tumblr.com/post/153333332112/xssonebay)
-* [Persisting on Pornhub](https://blog.zsec.uk/persisting-pornhub/)
 * [История о специфическом XSS для параметров!](https://www.noob.ninja/2017/09/story-of-parameter-specific-xss.html)
 * [Cloudflare WAF XSS - Abdullah Hussam](https://ahussam.me/Cloudflare-xss/)
 * [XSS to RCE in ...](https://matatall.com/xss/rce/bugbounty/2015/09/08/xss-to-rce.html)
@@ -42,7 +40,6 @@ tags:
 
 ### **Stored XSS**
 
-* [gif it time it'll come to you - Finding More Holes in The Hub](https://blog.zsec.uk/gif-time-pornhub/)
 * [MB blog: Another XSS in Google Colaboratory](https://blog.bentkowski.info/2018/09/another-xss-in-google-colaboratory.html?view=sidebar)
 * [Persistent XSS to Steal Passwords - Paypal ](https://wesecureapp.com/blog/persistent-xss-to-steal-passwords-paypal/)
 * [Как мы захватили аккаунты shopify одним кликом | WeSecureApp | Research & Blog](https://wesecureapp.com/blog/how-we-tookover-shopify-accounts-with-one-single-click/)
