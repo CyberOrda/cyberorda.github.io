@@ -331,8 +331,6 @@ Data Poisoning Attacks](https://arxiv.org/pdf/2006.12557.pdf)
 ### AI Security Market Map
 ![image](https://github.com/user-attachments/assets/c929bab0-ece4-43cc-b63b-a0b2c387b633)
 
- Конечно, я объединю эти два списка в один, сохраняя всю доступную информацию. Вот результат:
-
 ## Законодательство и постановления
 
 | Страна | Название документа | Краткое описание | Основные направления | Ссылка |
