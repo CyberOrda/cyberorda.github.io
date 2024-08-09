@@ -72,7 +72,6 @@ tags:
 * [OWASP GoatDroid](https://github.com/jackMannino/OWASP-GoatDroid-Project)
 * [AppKnox Vulnerable Application](https://github.com/appknox/vulnerable-application)
 * [Уязвимое приложение для Android](https://github.com/Lance0312/VulnApp)
-* [MoshZuk](https://dl.dropboxusercontent.com/u/37776965/Work/MoshZuk.apk)
 * [Hackme Bank](http://www.mcafee.com/us/downloads/free-tools/hacme-bank-android.aspx)
 * [Android Security Labs](https://github.com/SecurityCompass/AndroidLabs)
 * [Android-InsecureBankv2](https://github.com/dineshshetty/Android-InsecureBankv2)
@@ -85,7 +84,6 @@ tags:
 * [iPhoneLabs](https://github.com/SecurityCompass/iPhoneLabs)
 * [iOS-Attack-Defense](https://github.com/ManicodeSecurity/iOS-Attack-Defense)
 * [Pentesting iOS Applications](https://www.pentesteracademy.com/course?id=2)
-* [Reverse Engineering iOS Applications](https://github.com/ivRodriguezCA/RE-iOS-Apps)
 * [Проектирование и разработка приложений для iOS](https://www.coursera.org/learn/ios-app-design-development)
 
 ## **OWASP Top 10**
