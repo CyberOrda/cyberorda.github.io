@@ -33,7 +33,7 @@ tags:
 
 ## Инструменты с открытым исходным кодом
 
-**В этом разделе мы с вами можем рассмотреть, какие opensource решения и PoC, существуют для выполнения задачи по защите ML. Конечно, некоторые из них являются не поддерживаемыми или будут возникать трудности с запуском. Однако, не сказать о них - большое преступление.**
+**В этом разделе мы с вами можем рассмотреть, какие opensource решения и PoC существуют для выполнения задачи по защите ML. Конечно, некоторые из них являются не поддерживаемыми или будут возникать трудности с запуском, однако не сказать о них - большое преступление.**
 
 
 | Инструмент | Описание |
@@ -125,7 +125,7 @@ tags:
 
 ## 101 Resources
 
-**Вы можете найти тут перечень ресурсов, которые помогут войти в тему безопасности ИИ. Разобраться с тем, какие атаки существуют и как они могут быть использованы злоумышленником.**
+**Вы можете найти тут перечень ресурсов, которые помогут войти в тему безопасности ИИ: разобраться с тем, какие атаки существуют и как они могут быть использованы злоумышленником.**
 
 - [AI Security 101](https://www.nightfall.ai/ai-security-101)
 - [Web LLM attacks](https://portswigger.net/web-security/llm-attacks)
@@ -179,7 +179,7 @@ tags:
 
 ## Блоги и публикации
 
-**🌱 Сообщество в сфере ИИ-безопасности - растёт. Появляются новые блоги и множество исследователей. В этом пункте вы можете увидеть примеры некоторых блогов. Однако, их намного больше. Рекомендуем телеграм канал [t.me/](https://t.me/aisecnews), где отслеживается огромное колличество источников по AI-Security**
+**🌱 Сообщество в сфере ИИ-безопасности растёт. Появляются новые блоги и исследования. В этом разделе вы можете найти и ознакомиться с примерами блогов в даннойобласти, но это лишь малая часть, их намного больше.**
 
 - 🛡️ [Red-Teaming Large Language Models](https://huggingface.co/blog/red-teaming)
 - 🔍 [Google's AI red-team](https://blog.google/technology/safety-security/googles-ai-red-team-the-ethical-hackers-making-ai-safer/)
@@ -333,30 +333,32 @@ Data Poisoning Attacks](https://arxiv.org/pdf/2006.12557.pdf)
 
 ## Законодательство и постановления
 
+
 | Страна | Название документа | Краткое описание | Основные направления | Ссылка |
 |--------|---------------------|-------------------|----------------------|--------|
-| Россия | ИСКУССТВЕННЫЙ ИНТЕЛЛЕКТ. ТЕХНИЧЕСКАЯ СТРУКТУРА ФЕДЕРАТИВНОЙ СИСТЕМЫ МАШИННОГО ОБУЧЕНИЯ | | | https://protect.gost.ru/v.aspx?control=8&baseC=6&page=0&month=12&year=-1&search=&RegNum=1&DocOnPageCount=15&id=245476 |
-| Россия | ПНСТ 848-2023 Искусственный интеллект. Большие данные. Обзор и требования по обеспечению сохранности данных. | | | https://docs.cntd.ru/document/1304365959 |
-| Россия | ПНСТ 847-2023 Искусственный интеллект. Большие данные. Функциональные требования в отношении происхождения данных | | | https://protect.gost.ru/document1.aspx?control=31&baseC=6&page=2&month=9&year=-1&search=&id=256915 |
+| Россия | ИСКУССТВЕННЫЙ ИНТЕЛЛЕКТ. ТЕХНИЧЕСКАЯ СТРУКТУРА ФЕДЕРАТИВНОЙ СИСТЕМЫ МАШИННОГО ОБУЧЕНИЯ | | | [Ссылка](https://protect.gost.ru/v.aspx?control=8&baseC=6&page=0&month=12&year=-1&search=&RegNum=1&DocOnPageCount=15&id=245476) |
+| Россия | ПНСТ 848-2023 Искусственный интеллект. Большие данные. Обзор и требования по обеспечению сохранности данных. | | | [Ссылка](https://docs.cntd.ru/document/1304365959) |
+| Россия | ПНСТ 847-2023 Искусственный интеллект. Большие данные. Функциональные требования в отношении происхождения данных | | | [Ссылка](https://protect.gost.ru/document1.aspx?control=31&baseC=6&page=2&month=9&year=-1&search=&id=256915) |
 | Россия | Оценка качества систем искусственного интеллекта. Общие положения. ГОСТ Р 59898-2021 | | | |
 | Россия | Информационные технологии. Интеллект искусственный. Оценка робастности нейронных сетей. Часть 1. Обзор. ГОСТ Р 70462.1-2022/ISO/IEC TR 24029-1-2021 | | | |
 | Россия | Системы искусственного интеллекта. Способы обеспечения доверия. Общие положения. ГОСТ Р 59276-2020 | | | |
-| США | Biden's AI executive order | Указ устанавливает новые стандарты безопасности ИИ, требуя от разработчиков мощных систем делиться результатами испытаний с правительством. | Министру торговли поручено разработать руководство и лучшие практики по безопасности ИИ в течение 270 дней. Подчеркивается важность безопасности и беспристрастности систем ИИ для национальной обороны и критической инфраструктуры. | https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/30/fact-sheet-president-biden-issues-executive-order-on-safe-secure-and-trustworthy-artificial-intelligence/ |
-| США | FTC: Keep your AI claims in check | | | https://www.ftc.gov/business-guidance/blog/2023/02/keep-your-ai-claims-check |
-| США | FAA - Unmanned Aircraft Vehicles | | | https://www.faa.gov/regulations_policies/rulemaking/committees/documents/index.cfm/committee/browse/committeeID/837 |
-| США | NHTSA - Automated Vehicle safety | | | https://www.nhtsa.gov/vehicle-safety/automated-vehicles-safety |
-| США | AI Bill of Rights | | | https://www.whitehouse.gov/ostp/ai-bill-of-rights/ |
-| Япония | Relaxing copyright for AI training | Economic growth takes priority over regulation | | https://www.privacyworld.blog/2024/03/japans-new-draft-guidelines-on-ai-and-copyright-is-it-really-ok-to-train-ai-using-pirated-materials/ |
-| Великобритания | AI white paper | Principle-based approach, decentralized governance | | https://commission.europa.eu/system/files/2020-02/commission-white-paper-artificial-intelligence-feb2020_en.pdf |
-| Китай | Rules for GenAI services | Extraterritorial scope, content monitoring | | https://www.insideglobaltech.com/2023/08/30/labeling-of-ai-generated-content-new-guidelines-released-in-china/ |
+| США | Biden's AI executive order | Указ устанавливает новые стандарты безопасности ИИ, требуя от разработчиков мощных систем делиться результатами испытаний с правительством. | Министру торговли поручено разработать руководство и лучшие практики по безопасности ИИ в течение 270 дней. Подчеркивается важность безопасности и беспристрастности систем ИИ для национальной обороны и критической инфраструктуры. | [Ссылка](https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/30/fact-sheet-president-biden-issues-executive-order-on-safe-secure-and-trustworthy-artificial-intelligence/) |
+| США | FTC: Keep your AI claims in check | | | [Ссылка](https://www.ftc.gov/business-guidance/blog/2023/02/keep-your-ai-claims-check) |
+| США | FAA - Unmanned Aircraft Vehicles | | | [Ссылка](https://www.faa.gov/regulations_policies/rulemaking/committees/documents/index.cfm/committee/browse/committeeID/837) |
+| США | NHTSA - Automated Vehicle safety | | | [Ссылка](https://www.nhtsa.gov/vehicle-safety/automated-vehicles-safety) |
+| США | AI Bill of Rights | | | [Ссылка](https://www.whitehouse.gov/ostp/ai-bill-of-rights/) |
+| Япония | Relaxing copyright for AI training | Economic growth takes priority over regulation | | [Ссылка](https://www.privacyworld.blog/2024/03/japans-new-draft-guidelines-on-ai-and-copyright-is-it-really-ok-to-train-ai-using-pirated-materials/) |
+| Великобритания | AI white paper | Principle-based approach, decentralized governance | | [Ссылка](https://commission.europa.eu/system/files/2020-02/commission-white-paper-artificial-intelligence-feb2020_en.pdf) |
+| Китай | Rules for GenAI services | Extraterritorial scope, content monitoring | | [Ссылка](https://www.insideglobaltech.com/2023/08/30/labeling-of-ai-generated-content-new-guidelines-released-in-china/) |
 | Сингапур | Voluntary AI Verify system | Self-assessment against principles, global alignment | | |
-| Австралия | AI ethics framework | Voluntary principles, considering stricter laws | | https://ethics-of-ai.mooc.fi/chapter-1/4-a-framework-for-ai-ethics/ |
-| Евросоюз | AI Act | Risk-based framework, banned uses, standards for high-risk AI | | https://artificialintelligenceact.eu/ |
-| Международный | ISO/IEC 42001 Artificial intelligence — Management system | | | https://www.iso.org/standard/81230.html |
-| Международный | ISO/IEC 22989 — Artificial intelligence — Concepts and terminology | | | https://www.iso.org/standard/74296.html |
-| Международный | ISO/IEC 38507 — Governance of IT — Governance implications of the use of artificial intelligence by organizations | | | https://www.iso.org/standard/56641.html |
-| Международный | ISO/IEC 23894 — Artificial Intelligence — Guidance on Risk Management | | | https://www.iso.org/standard/77304.html |
-| Международный | ANSI/UL 4600 Standard for Safety for the Evaluation of Autonomous Products | Addresses fully autonomous systems that move such as self-driving cars, and other vehicles including lightweight unmanned aerial vehicles (UAVs). | Includes safety case construction, risk analysis, design process, verification and validation, tool qualification, data integrity, human-machine interaction, metrics and conformance assessment. | https://users.ece.cmu.edu/~koopman/ul4600/index.html |
+| Австралия | AI ethics framework | Voluntary principles, considering stricter laws | | [Ссылка](https://ethics-of-ai.mooc.fi/chapter-1/4-a-framework-for-ai-ethics/) |
+| Евросоюз | AI Act | Risk-based framework, banned uses, standards for high-risk AI | | [Ссылка](https://artificialintelligenceact.eu/) |
+| Международный | ISO/IEC 42001 Artificial intelligence — Management system | | | [Ссылка](https://www.iso.org/standard/81230.html) |
+| Международный | ISO/IEC 22989 — Artificial intelligence — Concepts and terminology | | | [Ссылка](https://www.iso.org/standard/74296.html) |
+| Международный | ISO/IEC 38507 — Governance of IT — Governance implications of the use of artificial intelligence by organizations | | | [Ссылка](https://www.iso.org/standard/56641.html) |
+| Международный | ISO/IEC 23894 — Artificial Intelligence — Guidance on Risk Management | | | [Ссылка](https://www.iso.org/standard/77304.html) |
+| Международный | ANSI/UL 4600 Standard for Safety for the Evaluation of Autonomous Products | Addresses fully autonomous systems that move such as self-driving cars, and other vehicles including lightweight unmanned aerial vehicles (UAVs). | Includes safety case construction, risk analysis, design process, verification and validation, tool qualification, data integrity, human-machine interaction, metrics and conformance assessment. | [Ссылка](https://users.ece.cmu.edu/~koopman/ul4600/index.html) |
+
 
 
 
