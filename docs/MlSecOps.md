@@ -39,7 +39,7 @@ tags:
 | Инструмент | Описание |
 |------------|----------|
 | [ModelScan(sast)](https://github.com/protectai/modelscan) | Защита от атак сериализации ML-моделей |
-| [NB Defense(sast)](https://nbdefense.ai) | Безопасность Jupyter Notebooks |
+| [NB Defense(sast)](https://protectai.com/nbdefense) | Безопасность Jupyter Notebooks |
 | [Garak(dast)](https://github.com/leondz/garak) | Сканер уязвимостей LLM |
 | [Adversarial Robustness Toolbox](https://github.com/IBM/adversarial-robustness-toolbox) | Библиотека методов защиты ML-моделей от состязательных атак |
 | [MLSploit](https://github.com/mlsploit/) | Облачная платформа для интерактивных экспериментов с исследованиями состязательного машинного обучения |
@@ -266,23 +266,23 @@ Data Poisoning Attacks](https://arxiv.org/pdf/2006.12557.pdf)
 
 | Название | Возможности безопасности LLM | URL |
 |----------|------------------------------|-----|
-| CalypsoAI Moderator | Фокусируется на предотвращении утечки данных, полной возможности аудита и обнаружении вредоносного кода. | https://www.prompt.security |
-| Giskard | Система управления качеством ИИ для ML-моделей, которая фокусируется на уязвимостях, таких как предвзятость производительности, галлюцинации и инъекции промптов. | https://www.giskard.ai/ |
-| Lakera | Lakera Guard повышает безопасность приложений LLM и противодействует широкому спектру кибер-угроз ИИ. | https://www.lakera.ai/ |
-| Lasso Security | Фокусируется на LLM, предлагая оценку безопасности, продвинутое моделирование угроз и специализированные программы обучения. | https://www.lasso.security/ |
-| LLM Guard | Разработан для укрепления безопасности LLM, предлагает санитизацию, обнаружение вредоносного языка, предотвращение утечки данных и устойчивость к инъекциям промптов. | https://llmguard.com / github.com/laiyerai/llm-guard |
-| LLM Fuzzer | Фреймворк с открытым исходным кодом для фаззинга, специально разработанный для LLM, который фокусируется на интеграции в приложения через API LLM. | https://github.com/llmfuzzer |
-| Prompt Security | Предоставляет подход к обеспечению безопасности, конфиденциальности данных и безопасности во всех аспектах генеративного ИИ, не зависящий от конкретной LLM. | https://www.prompt.security |
-| Rebuff | Самоукрепляющийся детектор инъекций промптов для AI-приложений, использующий многоуровневый механизм защиты. | https://github.com/rebuff |
-| Robust Intelligence | Предоставляет AI-файрвол и непрерывное тестирование и оценку. Создатели базы данных airisk.io пожертвовали это MITRE. | https://www.whylabs.ai/ |
-| WhyLabs | Защищает LLM от угроз безопасности, фокусируясь на предотвращении утечки данных, мониторинге инъекций промптов и предотвращении дезинформации. | https://www.whylabs.ai/
+| CalypsoAI Moderator | Фокусируется на предотвращении утечки данных, полной возможности аудита и обнаружении вредоносного кода. | [https://calypsoai.com/](https://calypsoai.com/) |
+| Giskard | Система управления качеством ИИ для ML-моделей, которая фокусируется на уязвимостях, таких как предвзятость производительности, галлюцинации и инъекции промптов. | (https://www.giskard.ai/)[https://www.giskard.ai/] |
+| Lakera | Lakera Guard повышает безопасность приложений LLM и противодействует широкому спектру кибер-угроз ИИ. | [https://www.lakera.ai/](https://www.lakera.ai/) |
+| Lasso Security | Фокусируется на LLM, предлагая оценку безопасности, продвинутое моделирование угроз и специализированные программы обучения. | [https://www.lasso.security/](https://www.lasso.security/) |
+| LLM Guard | Разработан для укрепления безопасности LLM, предлагает санитизацию, обнаружение вредоносного языка, предотвращение утечки данных и устойчивость к инъекциям промптов. | [https://llm-guard.com](https://llm-guard.com) или [https://github.com/laiyerai/llm-guard](https://github.com/laiyerai/llm-guard) |
+| LLM Fuzzer | Фреймворк с открытым исходным кодом для фаззинга, специально разработанный для LLM, который фокусируется на интеграции в приложения через API LLM. | [https://github.com/llmfuzzer](https://github.com/llmfuzzer) |
+| Prompt Security | Предоставляет подход к обеспечению безопасности, конфиденциальности данных и безопасности во всех аспектах генеративного ИИ, не зависящий от конкретной LLM. | [https://prompt.security](https://prompt.security) |
+| Rebuff | Самоукрепляющийся детектор инъекций промптов для AI-приложений, использующий многоуровневый механизм защиты. | [https://github.com/rebuff](https://github.com/rebuff) |
+| Robust Intelligence | Предоставляет AI-файрвол и непрерывное тестирование и оценку. Создатели базы данных airisk.io пожертвовали это MITRE. | [https://www.robustintelligence.com/](https://www.robustintelligence.com/) |
+| WhyLabs | Защищает LLM от угроз безопасности, фокусируясь на предотвращении утечки данных, мониторинге инъекций промптов и предотвращении дезинформации. | [https://www.whylabs.ai/](https://www.whylabs.ai/)
 
 ## Ресурсы сообщества
 
 - [MLSecOps](https://mlsecops.com/)
 - [MLSecOps Podcast](https://mlsecops.com/podcast)
 - [MITRE ATLAS™](https://atlas.mitre.org/) and [SLACK COMMUNITY](https://join.slack.com/t/mitreatlas/shared_invite/zt-10i6ka9xw-~dc70mXWrlbN9dfFNKyyzQ)
-- [MlSecOps communtiy](https://mlsceops.com) and [SLACK COMMUNITY](https://mlsecops.slack.com/)
+- [MlSecOps comuntiy](https://mlsceops.com) and [SLACK COMMUNITY](https://mlsecops.slack.com/)
 - [OWASP Machine Learning Security Top Ten](https://owasp.org/www-project-machine-learning-security-top-10/)
 - [OWASP Top 10 for Large Language Model Applications](https://owasp.org/www-project-top-10-for-large-language-model-applications/)
 - [OWASP LLMSVS](https://owasp.org/www-project-llm-verification-standard/)
