@@ -27,11 +27,13 @@ tags:
 Наш ресурс работает на MkDocs и мы должны придерживаться его гайдлайнов и принципов. Рассмотрим подробнее. 
 Перейдя в репозиторий КиберОрды в GitHub - [CyberORDA github](https://github.com/CyberOrda/cyberorda.github.io), вы можете увидеть следующую структуру.
 
-![Структура при входе.](https://i.postimg.cc/k4m4zzR5/image.png)
+![Структура при входе.](https://github.com/user-attachments/assets/82d8895d-0a8a-4383-ab7e-5890fc568bc7)
+
 
 Для нас имеет значение директория "Docs", которая содержит в себе все документы и статьи, которые загружены на ресурс.
 
-![Директория Docs.](https://i.postimg.cc/Tw0D9fNx/image.png)
+![Директория Docs.](https://github.com/user-attachments/assets/a0b7bbd1-d262-48f3-a111-820e5dd350b0)
+
 
 
 Каждая статья написана в формате Markdown и имеет некоторую структуру:
@@ -133,12 +135,12 @@ tags:
 к примеру: 
 
 ```
-![Орда фото](https://images.stopgame.ru/uploads/images/249721/form/1362301115.jpg){ align=center }{ width="200" }
+![Орда фото](https://github.com/user-attachments/assets/596da613-0169-41d6-b06b-69986d722a3a){ align=center }{ width="200" }
 ```
 
 Даст нам вот такую картинку
 
-![Орда фото](https://images.stopgame.ru/uploads/images/249721/form/1362301115.jpg){ align=center }
+![Орда фото](https://github.com/user-attachments/assets/596da613-0169-41d6-b06b-69986d722a3a){ align=center }
 
 Однако вы можете также использовать html на странице для загрузки контента:
 
@@ -149,7 +151,7 @@ tags:
 
 <img src="https://images.stopgame.ru/uploads/images/249721/form/1362301115.jpg" alt="Орда фото" width="200" style="display:block; margin:auto;"/>
 
-Для загрузки картинок вы можете использовать [postimages.co](https://postimages.org/)
+Для загрузки картинок вы можете использовать [postimages.co](https://postimages.org/), либо скопировать сразу в github.
 
 ### **Таблицы**
 
@@ -184,17 +186,19 @@ tags:
 
 Для этого необходимо создать файл в директории docs:
 
-![Создаём файл](https://i.postimg.cc/K8dBvmHc/image.png)
+![Создаём файл](https://github.com/user-attachments/assets/bd971212-bde9-4d2e-98bc-cae1fda1a29b)
+
 
 Далее внести код markdown файла со статьёй, которую вы написали:
 
-![Вносим код](https://i.postimg.cc/23NNSbhF/image.png)
+![Вносим код](https://github.com/user-attachments/assets/ca732f32-268a-4ac7-9831-c805be53ffdc)
+
 
 После этого требуется осуществить предпросмотр и нажать на "Commit Changes".
 
 Далее необходимо предоставить краткое описание того, что было сделано, и сделать push.
 
-![Вносим изменения](https://i.postimg.cc/P5RsCRW5/image.png).
+![Вносим изменения](https://github.com/user-attachments/assets/a57330be-461f-48c6-a547-cc19bef9bbab).
 
 ### **Что было дальше?**
 
