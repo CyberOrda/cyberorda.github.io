@@ -10,9 +10,9 @@ tags:
 
 | Блог |
 |------|
-| https://embracethered.com/blog/ |
-| 🐦 https://twitter.com/llm_sec |
-| 🐦 https://twitter.com/LLM_Top10 |
-| 🐦 https://twitter.com/aivillage_dc |
-| 🐦 https://twitter.com/elder_plinius/ |
-| https://hiddenlayer.com/ |
+| [Embrace The Red Blog](https://embracethered.com/blog/) |
+| 🐦 [LLM Security Twitter](https://twitter.com/llm_sec) |
+| 🐦 [LLM Top 10 Twitter](https://twitter.com/LLM_Top10) |
+| 🐦 [AI Village DC Twitter](https://twitter.com/aivillage_dc) |
+| 🐦 [Elder Plinius Twitter](https://twitter.com/elder_plinius/) |
+| [HiddenLayer Blog](https://hiddenlayer.com/) |
