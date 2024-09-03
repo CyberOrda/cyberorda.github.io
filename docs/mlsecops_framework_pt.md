@@ -10,9 +10,6 @@ tags:
 # **MlSecOps Process Framework** 
 
 
-### **Фреймворк в HTML**
-
-[Посмотреть без скачивания](source/MlSecOps_Process_Framework.html)
 
 
 ### **Фреймворк в Excel**
