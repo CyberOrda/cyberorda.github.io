@@ -94,6 +94,7 @@ nav:
       - "Главная": 'index_llmsecops.md'
       - "Архитектура": 'llm_architecture.md'
       - "Уязвимости": 'llm_vulnerabilities.md'
+      - "Безопасность агентов": "llm_agent_security.md"
       - "Инструменты": "llm_tools.md"
       - "Защита": "llm_defense.md"
       - "Моделирование угроз": "llm_threat_modeling.md"
