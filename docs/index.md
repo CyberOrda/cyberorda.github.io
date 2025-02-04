@@ -9,7 +9,7 @@ tags:
 
 # **Welcome to ORDA**
 
-Добро пожаловать в AppSec comunity - ORDA.
+Добро пожаловать в AppSec сообщество - ORDA.
 
 <div class="grid cards">
 
