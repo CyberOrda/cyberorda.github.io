@@ -81,7 +81,7 @@ nav:
     - blog/index.md
   - Безопасность приложений: 
     - 'Web Security': 'web_sec.md'
-    - 'Mobile Secuirty': 'mob_sec.md'
+    - 'Mobile Security': 'mob_sec.md'
     - 'Desktop Security': 'des_sec.md'
   - Инструменты DevSecOps: 'DevSecOps.md'
   - MlSecOps:
