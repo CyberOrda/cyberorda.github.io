@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40px" height="420px" viewBox="0 0 40 420" preserveAspectRatio="none">
+  <g fill="none" fill-rule="evenodd">
+    <path d="M0 180h40v60H0"/>
+    <path fill="#FFF" fill-rule="nonzero" d="M11 206h19v2H11v-2zm0 4h19v2H11v-2zm0-8h19v2H11v-2zm0 12h10v2H11v-2z"/>
+  </g>
+  <g transform="translate(0 60)">
+    <path fill="none" d="M-.5.5h40v60h-40z"/>
+    <circle fill="#FCD9D6" cx="17.625" cy="27.625" r="7.125"/>
+    <path fill="#D5392E" d="M17.5 34.744c.042 0 .083.006.125.006 3.936 0 7.125-3.189 7.125-7.125 0-.042-.006-.083-.006-.125H17.5v7.244z"/>
+    <path fill="#BC100A" d="M24.744 27.5c0 .042.006.083.006.125 0 3.936-3.189 7.125-7.125 7.125-.042 0-.083-.006-.125-.006V40.5h13v-13h-5.756z"/>
+  </g>
+  <path fill="#FFF" d="M32 32l-7-13h-9l8 13m-9-12.636L8 33l4 6.884L19 26m-2 7l-4 7h14.805L32 33M15 142h16v2H15v-2zm0 6h16v2H15v-2zm0 6h16v2H15v-2zm-5 0h2v2h-2v-2zm0-6h2v2h-2v-2zm0-6h2v2h-2v-2zm19 242h-4v-2c0-1.104-.896-2-2-2H11c-1.104 0-2 .896-2 2v11c0 1.105.896 2 2 2h5v3c0 1.105.896 2 2 2h11c1.104 0 2-.895 2-2v-12c0-1.105-.896-2-2-2zm-18 8v-9h12v9H11zm18 5H18v-2h5c1.104 0 2-.895 2-2v-6h4v10zm-1-127.5l-12-12v7.5H0v9h16v7.5M11 321v16h18.98v-16H11zm.98 1h5.021v4H11.98v-4zm0 4.979h5.021V331H11.98v-4.021zm0 9.042V332h5.021v4.021H11.98zm17.022 0H17.98V332h11.022v4.021zm0-5.021H17.98v-4.021h11.022V331zm0-5H17.98v-4h11.022v4z"/>
+</svg>
