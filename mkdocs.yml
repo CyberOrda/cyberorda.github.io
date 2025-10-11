@@ -142,7 +142,7 @@ extra:
 
   analytics: 
     feedback:
-      title: Была ли полезной эта страница
+      title: Была ли эта страница полезной
       ratings:
         - icon: material/emoticon-happy-outline
           name: Эта страница помогла мне
