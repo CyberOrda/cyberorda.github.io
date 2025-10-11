@@ -2,7 +2,7 @@
 hide:
   - feedback
 tags:
-  - Jucie Shop
+  - Juice Shop
   - OWASP
   - Уязвимые приложения
 ---
