@@ -90,7 +90,7 @@ nav:
     - "MlSecOps Process Framework": "mlsecops_framework_pt.md"
     - "Доклад по MlSecOps на PHDays2024": "mlsecops_phdays_paper.md"
     - "Инструменты для реализации MlSecOps": "m1s3c0p3_tools.md"
-    - LLMSecOps(*new):
+    - LLMSecOps:
       - "Главная": 'index_llmsecops.md'
       - "Архитектура": 'llm_architecture.md'
       - "Уязвимости": 'llm_vulnerabilities.md'
@@ -132,11 +132,11 @@ extra:
   consent:
     title: Куки кику
     description: >- 
-      Мы используем твои куки. Весь материал исключительно в образовательных целях. Авторы не несут ответсвенности за возможный 
+      Мы используем твои куки. Весь материал исключительно в образовательных целях. Авторы не несут ответственности за возможный ущерб.
   social:
     - icon: fontawesome/brands/telegram
       link: https://t.me/CyberOrda_Team
-      name: telegram сообщество для ORDA
+      name: Telegram-сообщество для ORDA
   generator: false
   
 
